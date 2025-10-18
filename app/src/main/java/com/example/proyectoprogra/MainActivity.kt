@@ -1,20 +1,31 @@
-package com.example.proyectoprogra
+package com.example.proyectoprogra // Asegúrate de que este sea tu paquete
 
-import android.os.Bundle
-import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
-import androidx.core.view.ViewCompat
-import androidx.core.view.WindowInsetsCompat
+import android.os.Bundle
+import android.content.Intent
+import android.widget.Button
+import android.widget.Toast
 
 class MainActivity : AppCompatActivity() {
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        enableEdgeToEdge()
+
+        // 1. Carga tu layout. MotionLayout se activará automáticamente.
         setContentView(R.layout.activity_main)
-        ViewCompat.setOnApplyWindowInsetsListener(findViewById(R.id.main)) { v, insets ->
-            val systemBars = insets.getInsets(WindowInsetsCompat.Type.systemBars())
-            v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom)
-            insets
+
+        // 2. Busca el botón por su ID
+        val startButton = findViewById<Button>(R.id.boton_iniciar)
+
+        // 3. Asigna la acción de clic
+        startButton.setOnClickListener {
+            // Acción al hacer clic.
+            // Por ejemplo, mostrar un mensaje:
+            Toast.makeText(this, "Iniciando Aventura...", Toast.LENGTH_SHORT).show()
+
+            // O (lo más probable) iniciar tu siguiente actividad:
+            // val intent = Intent(this, TuSiguienteActividad::class.java)
+            // startActivity(intent)
         }
     }
 }
