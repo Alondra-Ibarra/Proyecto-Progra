@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/estrfond"
+    tools:context=".MainActivity"> <androidx.constraintlayout.widget.Guideline
+    android:id="@+id/guideline_top_margin"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    app:layout_constraintGuide_percent="0.05" /> <androidx.constraintlayout.widget.Guideline
+    android:id="@+id/guideline_logo_bottom"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    app:layout_constraintGuide_percent="0.28" /> <androidx.constraintlayout.widget.Guideline
+    android:id="@+id/guideline_title_bottom"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    app:layout_constraintGuide_percent="0.38" /> <ImageView
+    android:id="@+id/app_logo"
+    android:layout_width="200dp" android:layout_height="100dp" android:scaleType="fitCenter" app:srcCompat="@drawable/logo"
+    app:layout_constraintTop_toTopOf="@+id/guideline_top_margin"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintBottom_toTopOf="@+id/guideline_logo_bottom" />
+
+    <TextView
+        android:id="@+id/welcome_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="¡Aventura por el Cosmos!"
+        android:textColor="@android:color/white"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        app:layout_constraintTop_toBottomOf="@+id/app_logo"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toTopOf="@+id/guideline_title_bottom"
+        android:layout_marginTop="8dp"/>
+
+    <ImageView
+        android:id="@+id/btn_explore_universe"
+        android:layout_width="180dp" android:layout_height="180dp" android:scaleType="fitCenter" app:srcCompat="@drawable/botonacuerpos"
+        app:layout_constraintTop_toBottomOf="@+id/welcome_title"
+        app:layout_constraintVertical_bias="0.1"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="24dp" /> <ImageView
+        android:id="@+id/btn_practice_quiz"
+        android:layout_width="180dp"
+        android:layout_height="180dp"
+        android:scaleType="fitCenter"
+        app:srcCompat="@drawable/botonaquizz"
+        app:layout_constraintTop_toBottomOf="@+id/btn_explore_universe"
+        app:layout_constraintVertical_bias="0.1"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="16dp" /> <ImageView
+        android:id="@+id/btn_theories"
+        android:layout_width="180dp"
+        android:layout_height="180dp"
+        android:scaleType="fitCenter"
+        app:srcCompat="@drawable/botonateorias"
+        app:layout_constraintTop_toBottomOf="@+id/btn_practice_quiz"
+        app:layout_constraintVertical_bias="0.1"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="16dp" /> </androidx.constraintlayout.widget.ConstraintLayout>
