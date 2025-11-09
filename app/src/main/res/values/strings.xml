@@ -1,3 +1,24 @@
 <resources>
-    <string name="app_name">Proyecto Progra</string>
+    <string name="app_name">ProyectoProgra</string>
+
+    <!-- ========= EJEMPLOS PARA PLANETAS ========= -->
+    <string name="planeta_mercurio_titulo">Mercurio</string>
+    <string name="planeta_mercurio_desc">Mercurio es el planeta más pequeño del Sistema Solar y el más cercano al Sol. Su órbita es la más excéntrica de todos los planetas y tarda 88 días terrestres en completarla. Debido a su falta de atmósfera, su superficie está llena de cráteres y experimenta las mayores variaciones de temperatura.</string>
+
+    <string name="planeta_venus_titulo">Venus</string>
+    <string name="planeta_venus_desc">Venus es el segundo planeta desde el Sol. A menudo se le llama el "planeta hermano" de la Tierra debido a su tamaño y composición similares. Sin embargo, su atmósfera es tóxica, compuesta principalmente de dióxido de carbono, y sufre un efecto invernadero descontrolado que lo convierte en el planeta más caliente del sistema solar.</string>
+
+    <!-- (Añade aquí los strings para Tierra, Marte, Júpiter, etc.) -->
+    <string name="planeta_tierra_titulo">Tierra</string>
+    <string name="planeta_tierra_desc">Nuestro hogar. El único planeta conocido con vida.</string>
+
+    <!-- ========= EJEMPLOS PARA PLANETAS ENANOS ========= -->
+    <string name="planeta_pluton_titulo">Plutón</string>
+    <string name="planeta_pluton_desc">Considerado el noveno planeta hasta 2006, Plutón fue reclasificado como planeta enano. Se encuentra en el Cinturón de Kuiper, una región de objetos helados más allá de Neptuno. Tiene cinco lunas conocidas, siendo Caronte la más grande.</string>
+
+    <string name="planeta_ceres_titulo">Ceres</string>
+    <string name="planeta_ceres_desc">Ceres es el objeto más grande del cinturón de asteroides entre Marte y Júpiter. Es el único planeta enano cuya órbita se encuentra en el sistema solar interior. Originalmente fue clasificado como planeta, luego como asteroide, y ahora como planeta enano.</string>
+
+    <!-- (Añade aquí los strings para Eris, Makemake, Haumea) -->
+
 </resources>

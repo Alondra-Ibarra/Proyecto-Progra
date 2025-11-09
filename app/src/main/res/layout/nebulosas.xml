@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#0C0A1E"
+    android:fillViewport="true"
+    tools:context=".Nebulosas">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingStart="16dp"
+        android:paddingEnd="16dp"
+        android:paddingTop="24dp"
+        android:paddingBottom="32dp">
+
+        <!-- Título principal -->
+        <TextView
+            android:id="@+id/main_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Nebulosas"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:textColor="#C77DFF"
+            android:layout_marginBottom="8dp" />
+
+        <!-- Subtítulo -->
+        <TextView
+            android:id="@+id/subtitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Aqui conoceras más sobre algunas de las nebulosas más bellas del universo"
+            android:textSize="16sp"
+            android:textColor="#E0AAFF"
+            android:layout_marginBottom="16dp" />
+
+
+        <!-- Fila 1: ORION y PILARES -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/card_Orion"
+                android:layout_width="0dp"
+                android:layout_height="140dp"
+                android:layout_weight="1"
+                app:cardCornerRadius="16dp"
+                app:cardElevation="6dp"
+                android:layout_marginEnd="8dp"
+                android:layout_marginBottom="8dp">
+
+                <androidx.constraintlayout.widget.ConstraintLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:background="#3C0366">
+
+                    <ImageView
+                        android:id="@+id/icon_Orion"
+                        android:layout_width="60dp"
+                        android:layout_height="60dp"
+                        android:src="@drawable/nebulosa_orion"
+                        app:layout_constraintTop_toTopOf="parent"
+                        app:layout_constraintBottom_toTopOf="@+id/text_Orion"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        android:contentDescription="Orion" />
+
+                    <TextView
+                        android:id="@+id/text_Orion"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Orion"
+                        android:textSize="18sp"
+                        android:textColor="#E0AAFF"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        android:layout_marginBottom="8dp" />
+                </androidx.constraintlayout.widget.ConstraintLayout>
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/card_Pilares"
+                android:layout_width="0dp"
+                android:layout_height="140dp"
+                android:layout_weight="1"
+                app:cardCornerRadius="16dp"
+                app:cardElevation="6dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginBottom="8dp">
+
+                <androidx.constraintlayout.widget.ConstraintLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:background="#3C0366">
+
+                    <ImageView
+                        android:id="@+id/icon_Pilares"
+                        android:layout_width="60dp"
+                        android:layout_height="60dp"
+                        android:src="@drawable/nebulosa_pilares"
+                        app:layout_constraintTop_toTopOf="parent"
+                        app:layout_constraintBottom_toTopOf="@+id/text_Pilares"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        android:contentDescription="Pleyades" />
+
+                    <TextView
+                        android:id="@+id/text_Pilares"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Pilares de la Creación"
+                        android:textSize="18sp"
+                        android:textColor="#E0AAFF"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        android:layout_marginBottom="8dp" />
+                </androidx.constraintlayout.widget.ConstraintLayout>
+            </androidx.cardview.widget.CardView>
+        </LinearLayout>
+
+        <!-- Fila 2: CABALLO y OJO -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/card_Caballo"
+                android:layout_width="0dp"
+                android:layout_height="140dp"
+                android:layout_weight="1"
+                app:cardCornerRadius="16dp"
+                app:cardElevation="6dp"
+                android:layout_marginEnd="8dp"
+                android:layout_marginBottom="8dp">
+
+                <androidx.constraintlayout.widget.ConstraintLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:background="#3C0366">
+
+                    <ImageView
+                        android:id="@+id/icon_Caballo"
+                        android:layout_width="60dp"
+                        android:layout_height="60dp"
+                        android:src="@drawable/nebulosa_caballo"
+                        app:layout_constraintTop_toTopOf="parent"
+                        app:layout_constraintBottom_toTopOf="@+id/text_Caballo"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        android:contentDescription="Caballo" />
+
+                    <TextView
+                        android:id="@+id/text_Caballo"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Cabeza de Caballo"
+                        android:textSize="18sp"
+                        android:textColor="#E0AAFF"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        android:layout_marginBottom="8dp" />
+                </androidx.constraintlayout.widget.ConstraintLayout>
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/card_Ojo"
+                android:layout_width="0dp"
+                android:layout_height="140dp"
+                android:layout_weight="1"
+                app:cardCornerRadius="16dp"
+                app:cardElevation="6dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginBottom="8dp">
+
+                <androidx.constraintlayout.widget.ConstraintLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:background="#3C0366">
+
+                    <ImageView
+                        android:id="@+id/icon_Ojo"
+                        android:layout_width="60dp"
+                        android:layout_height="60dp"
+                        android:src="@drawable/nebulosa_ojo"
+                        app:layout_constraintTop_toTopOf="parent"
+                        app:layout_constraintBottom_toTopOf="@+id/text_Ojo"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        android:contentDescription="4696" />
+
+                    <TextView
+                        android:id="@+id/text_Ojo"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Ojo de Dios"
+                        android:textSize="18sp"
+                        android:textColor="#E0AAFF"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        android:layout_marginBottom="8dp" />
+                </androidx.constraintlayout.widget.ConstraintLayout>
+            </androidx.cardview.widget.CardView>
+        </LinearLayout>
+
+        <!-- Fila 3: ANILLO -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center">
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/card_Anillo"
+                android:layout_width="0dp"
+                android:layout_height="140dp"
+                android:layout_weight="0.42"
+                app:cardCornerRadius="16dp"
+                app:cardElevation="6dp"
+                android:layout_marginBottom="8dp">
+
+                <androidx.constraintlayout.widget.ConstraintLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:background="#3C0366">
+
+                    <ImageView
+                        android:id="@+id/icon_Anillo"
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:src="@drawable/nebulosa_anillo"
+                        app:layout_constraintTop_toTopOf="parent"
+                        app:layout_constraintBottom_toTopOf="@+id/text_Anillo"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        android:contentDescription="Anillo" />
+
+                    <TextView
+                        android:id="@+id/text_Anillo"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Nebulosa del Anillo"
+                        android:textSize="18sp"
+                        android:textColor="#E0AAFF"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        android:layout_marginBottom="8dp" />
+                </androidx.constraintlayout.widget.ConstraintLayout>
+            </androidx.cardview.widget.CardView>
+        </LinearLayout>
+
+    </LinearLayout>
+</ScrollView>

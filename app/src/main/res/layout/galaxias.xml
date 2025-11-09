@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#0C0A1E"
+    android:fillViewport="true"
+    tools:context=".Galaxias">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingStart="16dp"
+        android:paddingEnd="16dp"
+        android:paddingTop="24dp"
+        android:paddingBottom="32dp">
+
+        <!-- Título principal -->
+        <TextView
+            android:id="@+id/main_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Las Galaxias"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:textColor="#C77DFF"
+            android:layout_marginBottom="8dp" />
+
+        <!-- Subtítulo -->
+        <TextView
+            android:id="@+id/subtitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Aqui conoceras más sobre algunas de las galaxias más bellas del universo"
+            android:textSize="16sp"
+            android:textColor="#E0AAFF"
+            android:layout_marginBottom="16dp" />
+
+
+        <!-- Fila 1: Via Lactea y Sombrero -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/card_viaLactea"
+                android:layout_width="0dp"
+                android:layout_height="140dp"
+                android:layout_weight="1"
+                app:cardCornerRadius="16dp"
+                app:cardElevation="6dp"
+                android:layout_marginEnd="8dp"
+                android:layout_marginBottom="8dp">
+
+                <androidx.constraintlayout.widget.ConstraintLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:background="#3C0366">
+
+                    <ImageView
+                        android:id="@+id/icon_viaLactea"
+                        android:layout_width="60dp"
+                        android:layout_height="60dp"
+                        android:src="@drawable/galaxia_viaLactea"
+                        app:layout_constraintTop_toTopOf="parent"
+                        app:layout_constraintBottom_toTopOf="@+id/text_viaLactea"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        android:contentDescription="viaLactea" />
+
+                    <TextView
+                        android:id="@+id/text_viaLactea"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Via Lactea"
+                        android:textSize="18sp"
+                        android:textColor="#E0AAFF"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        android:layout_marginBottom="8dp" />
+                </androidx.constraintlayout.widget.ConstraintLayout>
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/card_sombrero"
+                android:layout_width="0dp"
+                android:layout_height="140dp"
+                android:layout_weight="1"
+                app:cardCornerRadius="16dp"
+                app:cardElevation="6dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginBottom="8dp">
+
+                <androidx.constraintlayout.widget.ConstraintLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:background="#3C0366">
+
+                    <ImageView
+                        android:id="@+id/icon_sombrero"
+                        android:layout_width="60dp"
+                        android:layout_height="60dp"
+                        android:src="@drawable/galaxia_sombrero"
+                        app:layout_constraintTop_toTopOf="parent"
+                        app:layout_constraintBottom_toTopOf="@+id/text_sombrero"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        android:contentDescription="sombrero" />
+
+                    <TextView
+                        android:id="@+id/text_sombrero"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Sombrero"
+                        android:textSize="18sp"
+                        android:textColor="#E0AAFF"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        android:layout_marginBottom="8dp" />
+                </androidx.constraintlayout.widget.ConstraintLayout>
+            </androidx.cardview.widget.CardView>
+        </LinearLayout>
+
+        <!-- Fila 2: cigarro y NGC 4696 -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/card_Cigarro"
+                android:layout_width="0dp"
+                android:layout_height="140dp"
+                android:layout_weight="1"
+                app:cardCornerRadius="16dp"
+                app:cardElevation="6dp"
+                android:layout_marginEnd="8dp"
+                android:layout_marginBottom="8dp">
+
+                <androidx.constraintlayout.widget.ConstraintLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:background="#3C0366">
+
+                    <ImageView
+                        android:id="@+id/icon_cigarro"
+                        android:layout_width="60dp"
+                        android:layout_height="60dp"
+                        android:src="@drawable/galaxia_cigarro"
+                        app:layout_constraintTop_toTopOf="parent"
+                        app:layout_constraintBottom_toTopOf="@+id/text_cigarro"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        android:contentDescription="Cigarro" />
+
+                    <TextView
+                        android:id="@+id/text_cigarro"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Cigarro"
+                        android:textSize="18sp"
+                        android:textColor="#E0AAFF"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        android:layout_marginBottom="8dp" />
+                </androidx.constraintlayout.widget.ConstraintLayout>
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/card_4696"
+                android:layout_width="0dp"
+                android:layout_height="140dp"
+                android:layout_weight="1"
+                app:cardCornerRadius="16dp"
+                app:cardElevation="6dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginBottom="8dp">
+
+                <androidx.constraintlayout.widget.ConstraintLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:background="#3C0366">
+
+                    <ImageView
+                        android:id="@+id/icon_4696"
+                        android:layout_width="60dp"
+                        android:layout_height="60dp"
+                        android:src="@drawable/galaxia_4696"
+                        app:layout_constraintTop_toTopOf="parent"
+                        app:layout_constraintBottom_toTopOf="@+id/text_4696"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        android:contentDescription="4696" />
+
+                    <TextView
+                        android:id="@+id/text_4696"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="NGC 4696"
+                        android:textSize="18sp"
+                        android:textColor="#E0AAFF"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        android:layout_marginBottom="8dp" />
+                </androidx.constraintlayout.widget.ConstraintLayout>
+            </androidx.cardview.widget.CardView>
+        </LinearLayout>
+
+        <!-- Fila 3: GIRASOL -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center">
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/card_Girasol"
+                android:layout_width="0dp"
+                android:layout_height="140dp"
+                android:layout_weight="0.42"
+                app:cardCornerRadius="16dp"
+                app:cardElevation="6dp"
+                android:layout_marginBottom="8dp">
+
+                <androidx.constraintlayout.widget.ConstraintLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:background="#3C0366">
+
+                    <ImageView
+                        android:id="@+id/icon_Girasol"
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:src="@drawable/galaxia_girsaol"
+                        app:layout_constraintTop_toTopOf="parent"
+                        app:layout_constraintBottom_toTopOf="@+id/text_Girasol"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        android:contentDescription="Girasol" />
+
+                    <TextView
+                        android:id="@+id/text_Girasol"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Girasol"
+                        android:textSize="18sp"
+                        android:textColor="#E0AAFF"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        android:layout_marginBottom="8dp" />
+                </androidx.constraintlayout.widget.ConstraintLayout>
+            </androidx.cardview.widget.CardView>
+        </LinearLayout>
+
+    </LinearLayout>
+</ScrollView>

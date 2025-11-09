@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#0C0A1E"
+    android:fillViewport="true"
+    tools:context=".Estrellas">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingStart="16dp"
+        android:paddingEnd="16dp"
+        android:paddingTop="24dp"
+        android:paddingBottom="32dp">
+
+        <!-- Título principal -->
+        <TextView
+            android:id="@+id/main_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Estrellas"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:textColor="#C77DFF"
+            android:layout_marginBottom="8dp" />
+
+        <!-- Subtítulo -->
+        <TextView
+            android:id="@+id/subtitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Aqui conoceras más sobre algunas de las estrellas más bellas del universo"
+            android:textSize="16sp"
+            android:textColor="#E0AAFF"
+            android:layout_marginBottom="16dp" />
+
+
+        <!-- Fila 1: CAPELLA y PLEYADES -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/card_Capella"
+                android:layout_width="0dp"
+                android:layout_height="140dp"
+                android:layout_weight="1"
+                app:cardCornerRadius="16dp"
+                app:cardElevation="6dp"
+                android:layout_marginEnd="8dp"
+                android:layout_marginBottom="8dp">
+
+                <androidx.constraintlayout.widget.ConstraintLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:background="#3C0366">
+
+                    <ImageView
+                        android:id="@+id/icon_Capella"
+                        android:layout_width="60dp"
+                        android:layout_height="60dp"
+                        android:src="@drawable/estrella_capella"
+                        app:layout_constraintTop_toTopOf="parent"
+                        app:layout_constraintBottom_toTopOf="@+id/text_Capella"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        android:contentDescription="Capella" />
+
+                    <TextView
+                        android:id="@+id/text_Capella"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Capella"
+                        android:textSize="18sp"
+                        android:textColor="#E0AAFF"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        android:layout_marginBottom="8dp" />
+                </androidx.constraintlayout.widget.ConstraintLayout>
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/card_Pleyades"
+                android:layout_width="0dp"
+                android:layout_height="140dp"
+                android:layout_weight="1"
+                app:cardCornerRadius="16dp"
+                app:cardElevation="6dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginBottom="8dp">
+
+                <androidx.constraintlayout.widget.ConstraintLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:background="#3C0366">
+
+                    <ImageView
+                        android:id="@+id/icon_Pleyades"
+                        android:layout_width="60dp"
+                        android:layout_height="60dp"
+                        android:src="@drawable/estrella_pleyades"
+                        app:layout_constraintTop_toTopOf="parent"
+                        app:layout_constraintBottom_toTopOf="@+id/text_Pleyades"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        android:contentDescription="Pleyades" />
+
+                    <TextView
+                        android:id="@+id/text_Pleyades"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Pleyades"
+                        android:textSize="18sp"
+                        android:textColor="#E0AAFF"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        android:layout_marginBottom="8dp" />
+                </androidx.constraintlayout.widget.ConstraintLayout>
+            </androidx.cardview.widget.CardView>
+        </LinearLayout>
+
+        <!-- Fila 2: Omega Centauri y Las tres marias -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/card_Omega"
+                android:layout_width="0dp"
+                android:layout_height="140dp"
+                android:layout_weight="1"
+                app:cardCornerRadius="16dp"
+                app:cardElevation="6dp"
+                android:layout_marginEnd="8dp"
+                android:layout_marginBottom="8dp">
+
+                <androidx.constraintlayout.widget.ConstraintLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:background="#3C0366">
+
+                    <ImageView
+                        android:id="@+id/icon_Omega"
+                        android:layout_width="60dp"
+                        android:layout_height="60dp"
+                        android:src="@drawable/estrella_omega"
+                        app:layout_constraintTop_toTopOf="parent"
+                        app:layout_constraintBottom_toTopOf="@+id/text_Omega"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        android:contentDescription="Omega" />
+
+                    <TextView
+                        android:id="@+id/text_Omega"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Omega Centauri"
+                        android:textSize="18sp"
+                        android:textColor="#E0AAFF"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        android:layout_marginBottom="8dp" />
+                </androidx.constraintlayout.widget.ConstraintLayout>
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/card_3Marias"
+                android:layout_width="0dp"
+                android:layout_height="140dp"
+                android:layout_weight="1"
+                app:cardCornerRadius="16dp"
+                app:cardElevation="6dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginBottom="8dp">
+
+                <androidx.constraintlayout.widget.ConstraintLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:background="#3C0366">
+
+                    <ImageView
+                        android:id="@+id/icon_3Marias"
+                        android:layout_width="60dp"
+                        android:layout_height="60dp"
+                        android:src="@drawable/estrella_marias"
+                        app:layout_constraintTop_toTopOf="parent"
+                        app:layout_constraintBottom_toTopOf="@+id/text_3Marias"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        android:contentDescription="4696" />
+
+                    <TextView
+                        android:id="@+id/text_3Marias"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Cinturon de Orión"
+                        android:textSize="18sp"
+                        android:textColor="#E0AAFF"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        android:layout_marginBottom="8dp" />
+                </androidx.constraintlayout.widget.ConstraintLayout>
+            </androidx.cardview.widget.CardView>
+        </LinearLayout>
+
+        <!-- Fila 3: SOL -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center">
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/card_Sol"
+                android:layout_width="0dp"
+                android:layout_height="140dp"
+                android:layout_weight="0.42"
+                app:cardCornerRadius="16dp"
+                app:cardElevation="6dp"
+                android:layout_marginBottom="8dp">
+
+                <androidx.constraintlayout.widget.ConstraintLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:background="#3C0366">
+
+                    <ImageView
+                        android:id="@+id/icon_Sol"
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:src="@drawable/estrella_sol"
+                        app:layout_constraintTop_toTopOf="parent"
+                        app:layout_constraintBottom_toTopOf="@+id/text_Sol"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        android:contentDescription="Sol" />
+
+                    <TextView
+                        android:id="@+id/text_Sol"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Sol"
+                        android:textSize="18sp"
+                        android:textColor="#E0AAFF"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        android:layout_marginBottom="8dp" />
+                </androidx.constraintlayout.widget.ConstraintLayout>
+            </androidx.cardview.widget.CardView>
+        </LinearLayout>
+
+    </LinearLayout>
+</ScrollView>

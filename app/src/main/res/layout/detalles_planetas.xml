@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 1. Usamos ScrollView por si la descripción es muy larga -->
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#0C0A1E"
+    tools:context=".DetallesPlanetas"
+    android:fillViewport="true">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="24dp">
+
+        <!-- Imagen del Planeta/Objeto -->
+        <ImageView
+            android:id="@+id/detalle_image"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            app:layout_constraintDimensionRatio="1:1"
+            android:layout_marginTop="16dp"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintWidth_percent="0.7"
+            android:scaleType="centerCrop"
+            tools:src="@drawable/mercurio"
+            android:contentDescription="Imagen del objeto cósmico" />
+
+        <!-- Título (ej. "Mercurio") -->
+        <TextView
+            android:id="@+id/detalle_title"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:text="Título del Planeta"
+            android:textColor="#C77DFF"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:gravity="center"
+            app:layout_constraintTop_toBottomOf="@+id/detalle_image"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent" />
+
+        <!-- Descripción (el texto largo de strings.xml) -->
+        <TextView
+            android:id="@+id/detalle_description"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="Aquí va la descripción larga del planeta o cuerpo celeste que se ha seleccionado..."
+            android:textColor="#E0AAFF"
+            android:textSize="18sp"
+            android:lineSpacingExtra="4dp"
+            app:layout_constraintTop_toBottomOf="@+id/detalle_title"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>

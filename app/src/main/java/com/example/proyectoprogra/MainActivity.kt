@@ -15,13 +15,14 @@ class MainActivity : AppCompatActivity() {
         val startButton = findViewById<Button>(R.id.boton_iniciar)
 
         startButton.setOnClickListener {
-            Toast.makeText(this, "Iniciando Aventura...", Toast.LENGTH_SHORT).show()
+            //Toast.makeText(this, "Iniciando Aventura...", Toast.LENGTH_SHORT).show()
 
             // Inicia la siguiente actividad
             val intent = Intent(this, Menu1::class.java)
             startActivity(intent)
 
             // Agrega transición de desvanecimiento
+            overridePendingTransition(android.R.anim.fade_in, android.R.anim.fade_out)
 
         }
     }
