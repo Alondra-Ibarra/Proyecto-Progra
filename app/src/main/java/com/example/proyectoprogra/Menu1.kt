@@ -21,6 +21,17 @@ class Menu1: AppCompatActivity() {
             overridePendingTransition(android.R.anim.fade_in, android.R.anim.fade_out)
         }
 
+
+        val botonTeorias = findViewById<ImageView>(R.id.btn_theories)
+
+        botonTeorias.setOnClickListener {
+            val intent = Intent(this, Teorias::class.java)
+            startActivity(intent)
+
+            // Agrega transición de desvanecimiento
+            overridePendingTransition(android.R.anim.fade_in, android.R.anim.fade_out)
+        }
+
         // Puedes agregar los listeners para tus otros botones aquí
         // val cardQuiz = findViewById<CardView>(R.id.btn_practice_quiz)
         // cardQuiz.setOnClickListener {

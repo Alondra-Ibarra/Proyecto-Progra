@@ -67,12 +67,12 @@
                         android:id="@+id/icon_viaLactea"
                         android:layout_width="60dp"
                         android:layout_height="60dp"
-                        android:src="@drawable/galaxia_viaLactea"
+                        android:src="@drawable/galaxia_vialactea"
                         app:layout_constraintTop_toTopOf="parent"
-                        app:layout_constraintBottom_toTopOf="@+id/text_viaLactea"
+                        app:layout_constraintBottom_toTopOf="@+id/text_vialactea"
                         app:layout_constraintStart_toStartOf="parent"
                         app:layout_constraintEnd_toEndOf="parent"
-                        android:contentDescription="viaLactea" />
+                        android:contentDescription="vialactea" />
 
                     <TextView
                         android:id="@+id/text_viaLactea"

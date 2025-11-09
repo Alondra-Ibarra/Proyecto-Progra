@@ -1,4 +1,11 @@
 package com.example.proyectoprogra
 
-class Teorias {
+import androidx.appcompat.app.AppCompatActivity
+import android.os.Bundle
+class Teorias: AppCompatActivity() {
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        //Con esto se carga el layout creado
+        setContentView(R.layout.teorias)
+    }
 }

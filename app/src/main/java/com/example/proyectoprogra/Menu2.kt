@@ -21,13 +21,39 @@ class Menu2 : AppCompatActivity() {
 
         // --- Asigna el listener a la tarjeta de Galaxias ---
         val cardGalaxias = findViewById<CardView>(R.id.card_galaxias)
-
         cardGalaxias.setOnClickListener {
-            // (Aún no tienes esta pantalla, pero así sería)
-            // val intent = Intent(this, GalaxiasActivity::class.java)
-            // startActivity(intent)
+            val intent = Intent(this, Galaxias::class.java)
+            startActivity(intent)
         }
 
-        // ... Repite para las otras 4 tarjetas ...
+        //Asignaremos el listener de las tarjetas de Agujeros Negros
+        val cardAgujeros = findViewById<CardView>(R.id.card_agujeros)
+        cardAgujeros.setOnClickListener {
+            // Inicia la actividad de agujeros negros
+            val intent = Intent(this, AgujerosNegros::class.java)
+            startActivity(intent)
+        }
+
+        //Asignaremos el lostener de las tarjetas de Constelaciones
+        val cardConstelaciones = findViewById<CardView>(R.id.card_constelaciones)
+        cardConstelaciones.setOnClickListener {
+            // Inicia la actividad de constelaciones
+            val intent = Intent(this, Constelaciones::class.java)
+            startActivity(intent)
+        }
+
+        val cardNebulosas = findViewById<CardView>(R.id.card_nebulosas)
+        cardNebulosas.setOnClickListener {
+            // Inicia la actividad de constelaciones
+            val intent = Intent(this, Nebulosas::class.java)
+            startActivity(intent)
+        }
+
+        val cardEstrellas= findViewById<CardView>(R.id.card_estrellas)
+        cardEstrellas.setOnClickListener {
+            // Inicia la actividad de constelaciones
+            val intent = Intent(this, Estrellas::class.java)
+            startActivity(intent)
+        }
     }
 }

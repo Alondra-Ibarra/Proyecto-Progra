@@ -67,9 +67,9 @@
                         android:id="@+id/icon_Señal"
                         android:layout_width="60dp"
                         android:layout_height="60dp"
-                        android:src="@drawable/teoria_señal"
+                        android:src="@drawable/teoria_senal"
                         app:layout_constraintTop_toTopOf="parent"
-                        app:layout_constraintBottom_toTopOf="@+id/text_Señal"
+                        app:layout_constraintBottom_toTopOf="@+id/text_senal"
                         app:layout_constraintStart_toStartOf="parent"
                         app:layout_constraintEnd_toEndOf="parent"
                         android:contentDescription="Señal" />

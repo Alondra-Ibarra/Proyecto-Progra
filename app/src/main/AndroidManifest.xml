@@ -37,6 +37,27 @@
         <activity android:name=".DetallesPlanetas"
             android:exported="false">
         </activity>
+
+        <activity android:name=".AgujerosNegros"
+            android:exported="false">
+        </activity>
+
+        <activity android:name=".Constelaciones"
+            android:exported="false">
+        </activity>
+        <activity android:name=".Galaxias"
+            android:exported="false">
+        </activity>
+        <activity android:name=".Nebulosas"
+            android:exported="false">
+        </activity>
+        <activity android:name=".Teorias"
+            android:exported="false">
+        </activity>
+        <activity android:name=".Estrellas"
+            android:exported="false">
+        </activity>
+
     </application>
 
 </manifest>
