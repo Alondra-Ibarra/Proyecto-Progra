@@ -46,4 +46,6 @@ dependencies {
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
     implementation("androidx.constraintlayout:constraintlayout:2.1.4")
+    // Para usar CardView (la "tarjeta" con sombra)
+    implementation("androidx.cardview:cardview:1.0.0")
 }

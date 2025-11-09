@@ -25,6 +25,18 @@
         <activity android:name=".Menu1"
             android:exported="false">
         </activity>
+
+        <activity android:name=".Menu2"
+            android:exported="false">
+        </activity>
+
+        <activity android:name=".Planetas"
+            android:exported="false">
+        </activity>
+
+        <activity android:name=".DetallesPlanetas"
+            android:exported="false">
+        </activity>
     </application>
 
 </manifest>

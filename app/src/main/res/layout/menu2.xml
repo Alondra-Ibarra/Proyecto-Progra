@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#0C0A1E"
+    tools:context=".Menu2">
+
+    <!-- 🌠 Título principal -->
+    <TextView
+        android:id="@+id/main_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Explorando el cosmos"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:textColor="#C77DFF"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="32dp" />
+
+    <!-- 🌌 Subtítulo -->
+    <TextView
+        android:id="@+id/subtitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Conocerás un poco sobre todo el gran universo"
+        android:textSize="16sp"
+        android:textColor="#E0AAFF"
+        app:layout_constraintStart_toStartOf="@+id/main_title"
+        app:layout_constraintTop_toBottomOf="@+id/main_title"
+        android:layout_marginTop="8dp" />
+
+    <!-- Líneas guía -->
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline_v"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.5" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline_h1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.18" />
+
+    <!-- === Fila 1 === -->
+    <!-- 🪐 Planetas -->
+    <androidx.cardview.widget.CardView
+        android:id="@+id/card_planetas"
+        android:layout_width="0dp"
+        android:layout_height="140dp"
+        app:cardCornerRadius="16dp"
+        app:cardElevation="6dp"
+        android:layout_margin="16dp"
+        android:clickable="true"
+        android:focusable="true"
+        android:foreground="?android:attr/selectableItemBackground"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/guideline_v"
+        app:layout_constraintTop_toBottomOf="@+id/guideline_h1">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#3C0366">
+            <!-- NOTA: He quitado android:clickable y android:focusable de ESTE layout -->
+
+            <ImageView
+                android:id="@+id/icon_planetas"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:src="@drawable/saturno_menu"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintBottom_toTopOf="@+id/text_planetas"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                android:contentDescription="Planetas" />
+
+            <TextView
+                android:id="@+id/text_planetas"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Planetas"
+                android:textSize="18sp"
+                android:textColor="#E0AAFF"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                android:layout_marginBottom="8dp" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.cardview.widget.CardView>
+
+    <!-- 🌌 Galaxias -->
+    <androidx.cardview.widget.CardView
+        android:id="@+id/card_galaxias"
+        android:layout_width="0dp"
+        android:layout_height="140dp"
+        app:cardCornerRadius="16dp"
+        app:cardElevation="6dp"
+        android:layout_margin="16dp"
+        android:clickable="true"
+        android:focusable="true"
+        android:foreground="?android:attr/selectableItemBackground"
+        app:layout_constraintStart_toEndOf="@+id/guideline_v"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/guideline_h1">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#3C0366">
+            <!-- NOTA: He quitado android:clickable y android:focusable de ESTE layout -->
+
+            <ImageView
+                android:id="@+id/icon_galaxias"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:src="@drawable/galaxia_menu"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintBottom_toTopOf="@+id/text_galaxias"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                android:contentDescription="Galaxias" />
+
+            <TextView
+                android:id="@+id/text_galaxias"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Galaxias"
+                android:textSize="18sp"
+                android:textColor="#E0AAFF"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                android:layout_marginBottom="8dp" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.cardview.widget.CardView>
+
+    <!-- === Fila 2 === -->
+    <!-- 🌟 Estrellas -->
+    <androidx.cardview.widget.CardView
+        android:id="@+id/card_estrellas"
+        android:layout_width="0dp"
+        android:layout_height="140dp"
+        app:cardCornerRadius="16dp"
+        app:cardElevation="6dp"
+        android:layout_margin="16dp"
+        android:clickable="true"
+        android:focusable="true"
+        android:foreground="?android:attr/selectableItemBackground"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/guideline_v"
+        app:layout_constraintTop_toBottomOf="@+id/card_planetas">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#3C0366">
+
+            <ImageView
+                android:id="@+id/icon_estrellas"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:src="@drawable/capella_menu"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintBottom_toTopOf="@+id/text_estrellas"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                android:contentDescription="Estrellas" />
+
+            <TextView
+                android:id="@+id/text_estrellas"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Estrellas"
+                android:textSize="18sp"
+                android:textColor="#E0AAFF"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                android:layout_marginBottom="8dp" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.cardview.widget.CardView>
+
+    <!-- 🌠 Nebulosas -->
+    <androidx.cardview.widget.CardView
+        android:id="@+id/card_nebulosas"
+        android:layout_width="0dp"
+        android:layout_height="140dp"
+        app:cardCornerRadius="16dp"
+        app:cardElevation="6dp"
+        android:layout_margin="16dp"
+        android:clickable="true"
+        android:focusable="true"
+        android:foreground="?android:attr/selectableItemBackground"
+        app:layout_constraintStart_toEndOf="@+id/guideline_v"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/card_galaxias">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#3C0366">
+
+            <ImageView
+                android:id="@+id/icon_nebulosas"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:src="@drawable/nebulosa_menu"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintBottom_toTopOf="@+id/text_nebulosas"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                android:contentDescription="Nebulosas" />
+
+            <TextView
+                android:id="@+id/text_nebulosas"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Nebulosas"
+                android:textSize="18sp"
+                android:textColor="#E0AAFF"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                android:layout_marginBottom="8dp" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.cardview.widget.CardView>
+
+    <!-- === Fila 3 === -->
+    <!-- 🌑 Agujeros Negros -->
+    <androidx.cardview.widget.CardView
+        android:id="@+id/card_agujeros"
+        android:layout_width="0dp"
+        android:layout_height="140dp"
+        app:cardCornerRadius="16dp"
+        app:cardElevation="6dp"
+        android:layout_margin="16dp"
+        android:clickable="true"
+        android:focusable="true"
+        android:foreground="?android:attr/selectableItemBackground"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/guideline_v"
+        app:layout_constraintTop_toBottomOf="@+id/card_estrellas">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#3C0366">
+
+            <ImageView
+                android:id="@+id/icon_agujeros"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:src="@drawable/agujero_menu"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintBottom_toTopOf="@+id/text_agujeros"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                android:contentDescription="Agujeros Negros" />
+
+            <TextView
+                android:id="@+id/text_agujeros"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Agujeros Negros"
+                android:textSize="18sp"
+                android:textColor="#E0AAFF"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                android:layout_marginBottom="8dp" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.cardview.widget.CardView>
+
+    <!-- ✨ Constelaciones -->
+    <androidx.cardview.widget.CardView
+        android:id="@+id/card_constelaciones"
+        android:layout_width="0dp"
+        android:layout_height="140dp"
+        app:cardCornerRadius="16dp"
+        app:cardElevation="6dp"
+        android:layout_margin="16dp"
+        android:clickable="true"
+        android:focusable="true"
+        android:foreground="?android:attr/selectableItemBackground"
+        app:layout_constraintStart_toEndOf="@+id/guideline_v"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/card_nebulosas">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#3C0366">
+
+            <ImageView
+                android:id="@+id/icon_constelaciones"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:src="@drawable/orion_menu"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintBottom_toTopOf="@+id/text_constelaciones"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                android:contentDescription="Constelaciones" />
+
+            <TextView
+                android:id="@+id/text_constelaciones"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Constelaciones"
+                android:textSize="18sp"
+                android:textColor="#E0AAFF"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                android:layout_marginBottom="8dp" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.cardview.widget.CardView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
