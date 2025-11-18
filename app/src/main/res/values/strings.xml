@@ -12,6 +12,25 @@
     <string name="planeta_tierra_titulo">Tierra</string>
     <string name="planeta_tierra_desc">Nuestro hogar. El único planeta conocido con vida.</string>
 
+    <string name="planeta_marte_titulo">Marte</string>
+    <string name="planeta_marte_desc">Descripcion de marte</string>
+
+    <string name="planeta_jupiter_titulo">Jupiter</string>
+    <string name="planeta_jupiter_desc">Descripcion de jupiter</string>
+
+    <string name="planeta_saturno_titulo">Saturno</string>
+    <string name="planeta_saturno_desc">Descripcion de saturno</string>
+
+    <string name="planeta_urano_titulo">Urano</string>
+    <string name="planeta_urano_desc">Descripcion de urano</string>
+
+    <string name="planeta_neptuno_titulo">Neptuno</string>
+    <string name="planeta_neptuno_desc">Descripcion de neptuno</string>
+
+
+
+
+
     <!-- ========= EJEMPLOS PARA PLANETAS ENANOS ========= -->
     <string name="planeta_pluton_titulo">Plutón</string>
     <string name="planeta_pluton_desc">Considerado el noveno planeta hasta 2006, Plutón fue reclasificado como planeta enano. Se encuentra en el Cinturón de Kuiper, una región de objetos helados más allá de Neptuno. Tiene cinco lunas conocidas, siendo Caronte la más grande.</string>
@@ -19,6 +38,113 @@
     <string name="planeta_ceres_titulo">Ceres</string>
     <string name="planeta_ceres_desc">Ceres es el objeto más grande del cinturón de asteroides entre Marte y Júpiter. Es el único planeta enano cuya órbita se encuentra en el sistema solar interior. Originalmente fue clasificado como planeta, luego como asteroide, y ahora como planeta enano.</string>
 
-    <!-- (Añade aquí los strings para Eris, Makemake, Haumea) -->
+    <string name="planeta_eris_titulo">Eris</string>
+    <string name="planeta_eris_desc">Descripción Eris</string>
+
+    <string name="planeta_makemake_titulo">Makemake</string>
+    <string name="planeta_makemake_desc">Descripción Makemake</string>
+
+    <string name="planeta_haumea_titulo">Haumea</string>
+    <string name="planeta_haumea_desc">Descripción Haumea</string>
+
+    <!--Aqui va la informacion de las nebulosas-->
+    <string name="nebulosa_orion_titulo">Orion</string>
+    <string name="nebuñlosa_orion_desc">Descripcion Orion</string>
+
+    <string name="nebulosa_pilares_titulo">Pilares de la Creación</string>
+    <string name="nebulosa_pilares_desc">Descripcion Pilares de la creacion</string>
+
+    <string name="nebulosa_caballo_titulo">Cabeza de Caballo</string>
+    <string name="nebulosa_caballo_desc">Descripcion Cabezde de caballo"</string>
+
+    <string name="nebulosa_ojo_titulo">Ojo de Dios</string>
+    <string name="nebulosa_ojo_desc">Descripcion Ojo de Dios</string>
+
+    <string name="nebulosa_anillo_titulo">Nebulosa del Anillo</string>
+    <string name="nebulosa_anillo_desc">Descripcion del anillo</string>
+
+    <!--Informacion Agujeros negros-->
+    <string name="agujero_ton618_titulo">TON 618</string>
+    <string name="agujero_ton618_desc">Descripcion TON 618</string>
+
+    <string name="agujero_m87_titulo">M87*</string>
+    <string name="agujero_m87_desc">Descripcion M87*</string>
+
+    <string name="agujero_sagitario_titulo">Sagitario A</string>
+    <string name="agujero_sagitario_desc">Descripcion Sagitario A</string>
+
+    <string name="agujero_unicornio_titulo">Unicornio</string>
+    <string name="agujero_unicornio_desc">Descripcion Unicornio</string>
+
+    <string name="agujero_gaia_titulo">Gaia BH1</string>
+    <string name="agujero_gaia_desc">Descripcion Gaia BH1</string>
+
+    <!--Informacion Constelaciones-->
+
+    <string name="constelacion_orion_titulo">Orion</string>
+    <string name="constelacion_orion_desc">Descripcion Orion</string>"
+
+    <string name="constelacion_osa_titulo">Osa Mayor</string>
+    <string name="constelacion_osa_desc">Descripcion de la osa mayor</string>
+
+    <string name="constelacion_casiopea_titulo">Casiopea</string>
+    <string name="constelacion_casiopea_desc">Descripcion de la Casiopea</string>
+
+    <string name="constelacion_cruz_titulo">Cruz del Sur</string>
+    <string name="constelacion_cruz_desc">Descripcion de la cruz del sur</string>
+
+    <string name="constelacion_cisne_titulo">Cisne</string>
+    <string name="constelacion_cisne_desc">Descripcion del cisne</string>
+
+    <!--Informacion Galaxias-->
+
+    <string name="galaxia_viaLactea_titulo">Via Lactea</string>
+    <string name="galaxia_viaLactea_desc">Descripcion de la Via Lactea</string>
+
+    <string name="galaxia_sombrero_titulo">Sombrero</string>
+    <string name="galaxia_sombrero_desc">Descripcion del sombrero</string>
+
+    <string name="galaxia_cigarro_titulo">Cigarro</string>
+    <string name="galaxia_cigarro_desc">Descripcion del cigarro</string>
+
+    <string name="galaxia_4696_titulo">NGC 4696</string>
+    <string name="galaxia_4696_desc">Descripcion del NGC 4696</string>
+
+    <string name="galaxia_girsaol_titulo">Girasol</string>
+    <string name="galaxia_girsaol_desc">Descripcion del Girasol</string>
+
+    <!--Informacion Estrellas-->
+
+    <string name="estrella_capella_titulo">Capella</string>
+    <string name="estrella_capella_desc">Descripcion de Capella</string>
+
+    <string name="estrella_pleyades_titulo">Pleyades</string>
+    <string name="estrella_pleyades_desc">Descripcion de Pleyades</string>
+
+    <string name="estrella_omega_titulo">Omega Centauri</string>
+    <string name="estrella_omega_desc">Descripcion de Omega Centauri</string>
+
+    <string name="estrella_cinturiondeorion_titulo">Cinturon de Orión</string>
+    <string name="estrella_cinturiondeorion_desc">Descripcion de Cinturon de Orión</string>
+
+    <string name="estrella_sol_titulo">Sol</string>
+    <string name="estrella_sol_descripcion">Descripcion Sol</string>
+
+    <!--Informacion Teorias-->
+    <string name="teoria_senal_titulo">Señal WOW!</string>
+    <string name="teoria_senal_desc">Descripcion de la señal WOW!</string>
+
+    <string name="teoria_disco_titulo">Disco de Oro</string>
+    <string name="teoria_disco_desc">Descripcion del disco de oro</string>
+
+    <string name="teoria_cometa_titulo">Cometa 3i/atlas</string>
+    <string name="teoria_cometa_desc">Descripcion del cometa 3i/atlas</string>
+
+    <string name="teoria_planetas_titulo">Planetas como la Tierra</string>
+    <string name="teoria_planetas_desc">Descripcion de los planetas como la tierra</string>
+
+    <string name="teoria_area_titulo">Area 51</string>
+    <string name="teoria_area_desc">Descripcion de Area 51</string>
+
 
 </resources>
