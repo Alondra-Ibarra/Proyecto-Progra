@@ -4,6 +4,7 @@ import android.os.Bundle
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
+import android.text.Html
 
 class DetallesPlanetas : AppCompatActivity() {
 
@@ -30,6 +31,9 @@ class DetallesPlanetas : AppCompatActivity() {
 
             // Usa setImageResource() para "llamar" la imagen desde drawable
             imageView.setImageResource(imageResId)
+
+            val textoHtml = getString(descriptionResId)
+            descriptionTextView.text = Html.fromHtml(textoHtml, Html.FROM_HTML_MODE_LEGACY)
         }
     }
 }
