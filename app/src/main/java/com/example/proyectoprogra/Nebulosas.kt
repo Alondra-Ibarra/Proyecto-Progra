@@ -14,7 +14,7 @@ class Nebulosas: AppCompatActivity() {
          cardOrion.setOnClickListener {
              val intent = Intent(this, DetallesPlanetas::class.java)
              intent.putExtra("EXTRA_TITLE", R.string.nebulosa_orion_titulo)
-             intent.putExtra("EXTRA_DESCRIPTION", R.string.nebuñlosa_orion_desc)
+             intent.putExtra("EXTRA_DESCRIPTION", R.string.nebulosa_orion_desc)
              intent.putExtra("EXTRA_IMAGE", R.drawable.nebulosa_orion)
              startActivity(intent)
          }
