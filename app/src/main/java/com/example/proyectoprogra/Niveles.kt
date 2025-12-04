@@ -41,6 +41,7 @@ class Niveles : AppCompatActivity() {
         mediaPlayer?.stop()
         mediaPlayer?.release()
         mediaPlayer = null
+
     }
 
     private fun actualizarNiv() {
