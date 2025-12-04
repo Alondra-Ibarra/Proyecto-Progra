@@ -85,7 +85,7 @@
                 android:layout_weight="1"
                 android:layout_marginStart="8dp"
                 android:backgroundTint="#4CAF50"
-                android:text="Siguiente"
+                android:text="Pregunta Siguiente"
                 android:textColor="#FFFFFF" />
 
         </LinearLayout>

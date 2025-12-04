@@ -35,6 +35,18 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />
 
+    <ImageButton
+        android:id="@+id/btnPausa"
+        android:layout_width="95dp"
+        android:layout_height="82dp"
+        android:layout_marginTop="72dp"
+        android:layout_marginEnd="68dp"
+        android:background="#00FFFFFF"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@android:drawable/ic_media_pause"
+        app:tint="#FFFFFF" />
+
     <FrameLayout
         android:id="@+id/btnCarril1"
         android:layout_width="100dp"
@@ -60,7 +72,19 @@
             android:layout_gravity="center"
             android:text="Opción A"
             android:textColor="#FFFFFF"
-            android:textStyle="bold" />
+            android:textSize="20sp"
+            android:textStyle="bold"
+
+            android:shadowColor="#000000"
+            android:shadowDx="4"
+            android:shadowDy="4"
+            android:shadowRadius="4"
+
+            android:background="#99000000"
+            android:paddingStart="8dp"
+            android:paddingEnd="8dp"
+            android:paddingTop="4dp"
+            android:paddingBottom="4dp" />
     </FrameLayout>
 
     <FrameLayout
@@ -88,7 +112,19 @@
             android:layout_gravity="center"
             android:text="Opción B"
             android:textColor="#FFFFFF"
-            android:textStyle="bold" />
+            android:textSize="20sp"
+            android:textStyle="bold"
+
+            android:shadowColor="#000000"
+            android:shadowDx="4"
+            android:shadowDy="4"
+            android:shadowRadius="4"
+
+            android:background="#99000000"
+            android:paddingStart="8dp"
+            android:paddingEnd="8dp"
+            android:paddingTop="4dp"
+            android:paddingBottom="4dp" />
     </FrameLayout>
 
     <FrameLayout
@@ -116,7 +152,19 @@
             android:layout_gravity="center"
             android:text="Opción C"
             android:textColor="#FFFFFF"
-            android:textStyle="bold" />
+            android:textSize="20sp"
+            android:textStyle="bold"
+
+            android:shadowColor="#000000"
+            android:shadowDx="4"
+            android:shadowDy="4"
+            android:shadowRadius="4"
+
+            android:background="#99000000"
+            android:paddingStart="8dp"
+            android:paddingEnd="8dp"
+            android:paddingTop="4dp"
+            android:paddingBottom="4dp" />
     </FrameLayout>
 
     <ImageView

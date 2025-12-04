@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">ProyectoProgra</string>
+    <string name="app_name">Nova</string>
         <!-- ============================================================== -->
         <!--                        PLANETAS                                -->
         <!-- ============================================================== -->
@@ -7,37 +7,37 @@
     <string name="planeta_mercurio_titulo">Mercurio</string>
     <string name="planeta_mercurio_desc">
         <![CDATA[
-    <br>Mercurio es el planeta más pequeño de nuestro sistema solar. Es apenas un poco más grande que la Luna de la Tierra<br>
+    <br>Mercurio es el planeta más pequeño de nuestro sistema solar. Es apenas un poco más grande que la Luna de la Tierra.</br>
     Sin embargo, Mercurio no tiene lunas. Es el planeta más cercano al Sol, pero en realidad no es el más caliente. Venus es más caliente.
     Junto con Venus, la Tierra y Marte, Mercurio es uno de los planetas rocosos. Tiene una superficie sólida que está cubierta de cráteres.
-    <br>En lugar de una atmósfera, Mercurio posee una delgada exosfera formada por átomos expulsados de la superficie por el viento solar y los meteoritos que chocan contra él.<br>
+    <br>En lugar de una atmósfera, Mercurio posee una delgada exosfera formada por átomos expulsados de la superficie por el viento solar y los meteoritos que chocan contra él.</br>
     La exosfera de Mercurio está compuesta principalmente de oxígeno, sodio, hidrógeno, helio y potasio. Mercurio no tiene lunas.
-    <br>Estructura y superficie<br>
-    <br>Mercurio es el planeta más pequeño de nuestro sistema solar.<br>
-    <br>Mercurio es un planeta terrestre. Es pequeño y rocoso.<br>
-    <br>Mercurio tiene una exosfera delgada.<br>
-    <br>La superficie de Mercurio puede subir hasta 427 grados Celsius (800 grados Fahrenheit) durante el día y bajar hasta -184 grados Celsius (-300 grados Fahrenheit) durante la noche. (Pero Mercurio no es el planeta más caliente del sistema solar. El planeta más caliente es Venus).<br>
-    <br>Los polos de Mercurio tienen hielo de agua.<br>
+    <br>Estructura y superficie</br>
+    <br>Mercurio es el planeta más pequeño de nuestro sistema solar.</br>
+    <br>Mercurio es un planeta terrestre. Es pequeño y rocoso.</br>
+    <br>Mercurio tiene una exosfera delgada.</br>
+    <br>La superficie de Mercurio puede subir hasta 427 grados Celsius (800 grados Fahrenheit) durante el día y bajar hasta -184 grados Celsius (-300 grados Fahrenheit) durante la noche. (Pero Mercurio no es el planeta más caliente del sistema solar. El planeta más caliente es Venus).</br>
+    <br>Los polos de Mercurio tienen hielo de agua.</br>
 
-    <b><br><br>El tiempo en Mercurio</b>
-    <br>Un día en Mercurio dura 59 días terrestres.<br>
-    <br>Un año en Mercurio dura 88 días terrestres.<br>
+    <b><br><br>El tiempo en Mercurio</b></br></br>
+    <br>Un día en Mercurio dura 59 días terrestres.</br>
+    <br>Un año en Mercurio dura 88 días terrestres.</br>
 
-    <b><br><br>Los vecinos de Mercurio</b><br><br>
-    <br>Mercurio no tiene lunas.<br>
-    <br>Mercurio es el planeta más cercano al Sol.<br>
-    <br>Venus es el planeta vecino de Mercurio.<br>
+    <b><br><br>Los vecinos de Mercurio</b></br></br>
+    <br>Mercurio no tiene lunas.</br>
+    <br>Mercurio es el planeta más cercano al Sol.</br>
+    <br>Venus es el planeta vecino de Mercurio.</br>
 
-    <b><br><br>Historia breve</b><br><br>
+    <b><br><br>Historia breve</b></br></br>
     Mercurio es conocido desde la antigüedad porque se puede ver sin telescopios avanzados.
     Debido a que está tan cerca del Sol, Mercurio es difícil de estudiar desde la Tierra. Nadie ha ido nunca a Mercurio, pero dos naves espaciales robóticas lo han visitado. Las naves espaciales se llamaban Mariner 10 y MESSENGER.
 
-    <b><br><br>Estructura y superficie</b><br><br>
-    <br>Es el planeta más cálido del sistema solar.<br>
-    <br>Es un planeta terrestre: es pequeño y rocoso.<br>
-    <br>Su atmósfera es densa: atrapa el calor y por eso es tan caluroso.<br>
-    <br>Tiene una superficie activa, que incluye volcanes.<br>
-    <br>Gira en dirección contraria a la Tierra y la mayoría de los planetas.<br>
+    <b><br><br>Estructura y superficie</b></br></br>
+    <br>Es el planeta más cálido del sistema solar.</br>
+    <br>Es un planeta terrestre: es pequeño y rocoso.</br>
+    <br>Su atmósfera es densa: atrapa el calor y por eso es tan caluroso.</br>
+    <br>Tiene una superficie activa, que incluye volcanes.</br>
+    <br>Gira en dirección contraria a la Tierra y la mayoría de los planetas.</br>
     ]]>
 </string>
 
@@ -49,34 +49,34 @@
         Aunque Venus no es el planeta más cercano al Sol, es el más caliente.
         Tiene una atmósfera densa, llena de dióxido de carbono, que provoca el efecto invernadero, y de nubes compuestas de ácido sulfúrico. Los gases atrapan el calor y mantienen a Venus bien calentito.
         De hecho, hace tanto calor en Venus que metales como el plomo serían charcos de metal fundido.
-        <br>Venus se ve como un planeta muy activo. Tiene montañas y volcanes. Venus es similar a la Tierra, en tamaño. La Tierra es solo un poco más grande.<br>
+        <br>Venus se ve como un planeta muy activo. Tiene montañas y volcanes. Venus es similar a la Tierra, en tamaño. La Tierra es solo un poco más grande.</br>
 
-        <br>Venus es poco común porque gira en dirección contraria a la de la Tierra y la mayoría de los otros planetas. Y su rotación es muy lenta. Tarda alrededor de 243 días terrestres en girar solo una vez. Debido a que está tan cerca del Sol, un año pasa muy rápido. Venus tarda 225 días terrestres en dar toda la vuelta alrededor del Sol. Esto significa que, en Venus, un día es un poco más largo que un año.<br>
+        <br>Venus es poco común porque gira en dirección contraria a la de la Tierra y la mayoría de los otros planetas. Y su rotación es muy lenta. Tarda alrededor de 243 días terrestres en girar solo una vez. Debido a que está tan cerca del Sol, un año pasa muy rápido. Venus tarda 225 días terrestres en dar toda la vuelta alrededor del Sol. Esto significa que, en Venus, un día es un poco más largo que un año.</br>
         Debido a que las longitudes del día y del año son similares, un día en Venus no es como un día en la Tierra. Aquí, en la Tierra, el Sol sale y se pone una vez por día. En Venus, el Sol sale cada 117 días terrestres. Así que el Sol sale dos veces por año, ¡aunque todavía sea el mismo día! Y dado que Venus rota hacia atrás, el Sol sale por el oeste y se pone en el este.
         Al igual que Mercurio, Venus no tiene ninguna luna.
 
 
-        <b><br><br>Estructura y superficie</b><br><br>
-        <br>Es el planeta más cálido del sistema solar.<br>
-        <br>Es un planeta terrestre: es pequeño y rocoso.<br>
-        <br>Su atmósfera es densa: atrapa el calor y por eso es tan caluroso.<br>
-        <br>Tiene una superficie activa, que incluye volcanes.<br>
-        <br>Gira en dirección contraria a la Tierra y la mayoría de los planetas.<br>
+        <b><br><br>Estructura y superficie</b></br></br>
+        <br>Es el planeta más cálido del sistema solar.</br>
+        <br>Es un planeta terrestre: es pequeño y rocoso.</br>
+        <br>Su atmósfera es densa: atrapa el calor y por eso es tan caluroso.</br>
+        <br>Tiene una superficie activa, que incluye volcanes.</br>
+        <br>Gira en dirección contraria a la Tierra y la mayoría de los planetas.</br>
 
 
-        <b><br><br>El tiempo en Venus</b><br><br>
-        <br>Un día dura 243 días terrestres.<br>
-        <br>Un año dura 225 días terrestres.<br>
+        <b><br><br>El tiempo en Venus</b></br></br>
+        <br>Un día dura 243 días terrestres.</br>
+        <br>Un año dura 225 días terrestres.</br>
 
 
-        <b><br><br>Vecinos de Venus</b><br><br>
-        <br>No tiene lunas.<br>
-        <br>Es el Segundo planeta contando desde el Sol. Eso significa que Mercurio y la Tierra son sus vecinos más cercanos.<br>
+        <b><br><br>Vecinos de Venus</b></br></br>
+        <br>No tiene lunas.</br>
+        <br>Es el Segundo planeta contando desde el Sol. Eso significa que Mercurio y la Tierra son sus vecinos más cercanos.</br>
 
 
-        <b><br><br>Breve historia</b><br><br>
-        <br>Se conoce su existencia desde la antigüedad porque no es necesario usar telescopios avanzados para verlo.<br>
-        <br>Ha recibido visitas de varias naves espaciales: Mariner 2, Mariner 5, Mariner 10, Pioneer Venus 1, Pioneer Venus 2 y un orbitador llamado Magallanes.<br>
+        <b><br><br>Breve historia</b></br></br>
+        <br>Se conoce su existencia desde la antigüedad porque no es necesario usar telescopios avanzados para verlo.</br>
+        <br>Ha recibido visitas de varias naves espaciales: Mariner 2, Mariner 5, Mariner 10, Pioneer Venus 1, Pioneer Venus 2 y un orbitador llamado Magallanes.</br>
     ]]>
 </string>
 
@@ -87,33 +87,33 @@
     <string name="planeta_tierra_titulo">Tierra</string>
     <string name="planeta_tierra_desc">
         <![CDATA[
-        <br>Nuestro hogar, el planeta Tierra, es un planeta terrestre y rocoso. Tiene una superficie sólida y activa, con montañas, valles, cañones, llanuras y mucho más.<br>
+        <br>Nuestro hogar, el planeta Tierra, es un planeta terrestre y rocoso. Tiene una superficie sólida y activa, con montañas, valles, cañones, llanuras y mucho más.</br>
         La Tierra es especial porque es un planeta océano, ya que el agua cubre el 70% de su superficie.
         Nuestra atmósferaestá compuesta, en gran parte, por nitrógeno. También tiene mucho oxígeno, que nos permite respirar. Además, nos protege de los meteoroides que se acercan a la Tierra, la mayoría de los cuales se desintegran en nuestra atmósfera antes de llegar a la superficie en forma de meteoritos.
 
 
-        <br><br>Es posible que, como se trata de nuestro hogar, pienses que lo sabemos todo sobre la Tierra. ¡La verdad es que no! Aún nos queda mucho por aprender sobre nuestro planeta. Actualmente, hay muchos satélites en órbita alrededor de la Tierra, tomando fotos y realizando mediciones. Esto nos permite saber más cosas sobre el clima, los océanos, la tierra, el cambio climático y muchos otros temas importantes.<br><br>
+        <br><br>Es posible que, como se trata de nuestro hogar, pienses que lo sabemos todo sobre la Tierra. ¡La verdad es que no! Aún nos queda mucho por aprender sobre nuestro planeta. Actualmente, hay muchos satélites en órbita alrededor de la Tierra, tomando fotos y realizando mediciones. Esto nos permite saber más cosas sobre el clima, los océanos, la tierra, el cambio climático y muchos otros temas importantes.</br></br>
 
 
-        <b><br><br>Estructura y superficie</b><br><br>
-        <br>La Tierra es un planeta terrestre. Es pequeño y rocoso.<br>
-        <br>La atmósfera terrestre tiene el grosor perfecto para mantener la temperatura templada del planeta, para que seres vivos como nosotros podamos vivir en él. Es el único planeta de nuestro sistema solar que sabemos que tiene las condiciones necesarias para que haya vida. Está compuesto por nitrógeno, en su mayor parte, pero tiene una buena cantidad de oxígeno, que es lo que nos permite respirar.<br>
+        <b><br><br>Estructura y superficie</b></br></br>
+        <br>La Tierra es un planeta terrestre. Es pequeño y rocoso.</br>
+        <br>La atmósfera terrestre tiene el grosor perfecto para mantener la temperatura templada del planeta, para que seres vivos como nosotros podamos vivir en él. Es el único planeta de nuestro sistema solar que sabemos que tiene las condiciones necesarias para que haya vida. Está compuesto por nitrógeno, en su mayor parte, pero tiene una buena cantidad de oxígeno, que es lo que nos permite respirar.</br>
 
 
 
-        <b><br><br>El tiempo en la Tierra</b><br><br>
-        <br>Un día en la Tierra dura algo menos de 24 horas.<br>
-        <br>Un año en la Tierra dura 365,25 días. Ese 0,25 extra hace que cada 4 años tengamos que añadir un día más al calendario. Ese año se llama año bisiesto.<br>
+        <b><br><br>El tiempo en la Tierra</b></br></br>
+        <br>Un día en la Tierra dura algo menos de 24 horas.</br>
+        <br>Un año en la Tierra dura 365,25 días. Ese 0,25 extra hace que cada 4 años tengamos que añadir un día más al calendario. Ese año se llama año bisiesto.</br>
 
 
-        <b><br><br>Los vecinos de la Tierra</b><br><br>
-        <br>La Tierra es el único planeta que tiene solo una luna.<br>
-        <br>La Tierra tiene muchos satélites que la observan y la estudian. Aún nos falta mucho por aprender sobre nuestro planeta.<br>
-        <br>La Tierra es el tercer planeta desde el Sol en nuestro sistema solar. Así, nuestros vecinos más cercanos son Venus y Marte.<br>
+        <b><br><br>Los vecinos de la Tierra</b></br></br>
+        <br>La Tierra es el único planeta que tiene solo una luna.</br>
+        <br>La Tierra tiene muchos satélites que la observan y la estudian. Aún nos falta mucho por aprender sobre nuestro planeta.</br>
+        <br>La Tierra es el tercer planeta desde el Sol en nuestro sistema solar. Así, nuestros vecinos más cercanos son Venus y Marte.</br>
 
 
-        <b><br><br>Historia reciente</b><br><br>
-        <br>Conocemos la existencia de nuestro planeta desde la antigüedad, pero durante mucho tiempo no sabíamos que se encontraba en el sistema solar.<br>
+        <b><br><br>Historia reciente</b></br></br>
+        <br>Conocemos la existencia de nuestro planeta desde la antigüedad, pero durante mucho tiempo no sabíamos que se encontraba en el sistema solar.</br>
     ]]>
     </string>
 
@@ -123,34 +123,34 @@
 
     <string name="planeta_marte_desc">
     <![CDATA[
-        <br>Marte es un mundo frío y desértico. La temperatura media en Marte es de -65 grados Celsius, muy por debajo del punto de congelación. Marte tiene la mitad del tamaño de la Tierra. A veces es llamado el planeta rojo. Es rojo debido al hierro oxidado de su suelo.<br>
+        <br>Marte es un mundo frío y desértico. La temperatura media en Marte es de -65 grados Celsius, muy por debajo del punto de congelación. Marte tiene la mitad del tamaño de la Tierra. A veces es llamado el planeta rojo. Es rojo debido al hierro oxidado de su suelo.</br>
         Al igual que la Tierra, Marte tiene estaciones del año, casquetes polares, volcanes, cañones y tiempo meteorológico.
-        <br>Tiene una atmósfera muy delgada compuesta principalmente de dióxido de carbono, nitrógeno y argón. Las personas no podrían respirar el aire en Marte.<br>
+        <br>Tiene una atmósfera muy delgada compuesta principalmente de dióxido de carbono, nitrógeno y argón. Las personas no podrían respirar el aire en Marte.</br>
         Hay señales de inundaciones antiguas en Marte, pero ahora el agua existe principalmente en su suelo congelado y en las nubes delgadas. En algunas laderas marcianas, existe evidencia de agua salada líquida en el suelo.
 
-        <br>Los científicos desean saber si Marte pudo haber tenido seres vivos en el pasado. También quieren saber si Marte podría albergar vida ahora o en el futuro.<br>
+        <br>Los científicos desean saber si Marte pudo haber tenido seres vivos en el pasado. También quieren saber si Marte podría albergar vida ahora o en el futuro.</br>
 
 
-        <b><br><br>Estructura y superficie</b><br><br>
-        <br>Marte es un planeta terrestre. Es pequeño y rocoso.<br>
-        <br>Marte tiene una atmósfera delgada y enrarecida.<br>
-        <br>Marte tiene una atmósfera activa, pero la superficie del planeta no está activa. Sus volcanes están muertos.<br>
+        <b><br><br>Estructura y superficie</b></br></br>
+        <br>Marte es un planeta terrestre. Es pequeño y rocoso.</br>
+        <br>Marte tiene una atmósfera delgada y enrarecida.</br>
+        <br>Marte tiene una atmósfera activa, pero la superficie del planeta no está activa. Sus volcanes están muertos.</br>
 
 
-        <b><br><br>El tiempo en Marte</b><br><br>
-        Un día en Marte dura 24,6 horas. Es apenas un poco más de un día en la Tierra.<br>
-        Un año en Marte son 687 días terrestres. Es casi el doble de largo que un año en la Tierra.<br>
+        <b><br><br>El tiempo en Marte</b></br></br>
+        Un día en Marte dura 24,6 horas. Es apenas un poco más de un día en la Tierra.</br>
+        Un año en Marte son 687 días terrestres. Es casi el doble de largo que un año en la Tierra.</br>
 
 
-        <b><br><br>Los vecinos de Marte</b><br><br>
-        <br>Marte tiene dos lunas. Sus nombres son Fobos y Deimos.<br>
-        <br>Marte es el cuarto planeta desde el Sol. Eso significa que la Tierra y Júpiter son los planetas vecinos de Marte.<br>
+        <b><br><br>Los vecinos de Marte</b></br></br>
+        <br>Marte tiene dos lunas. Sus nombres son Fobos y Deimos.</br>
+        <br>Marte es el cuarto planeta desde el Sol. Eso significa que la Tierra y Júpiter son los planetas vecinos de Marte.</br>
 
 
         <b><br><br>Historia breve</b></br></br>
-        <br>Marte es conocido desde la antigüedad porque se puede ver sin telescopios avanzados.<br>
-        <br>En Marte ha volado un helicóptero. ¡De veras! El helicóptero de Marte, Ingenuity, realizó con éxito pruebas de vuelo motorizado y controlado en otro mundo por primera vez.<br>
-        <br>Viajó a Marte como pasajero del rover Perseverance y trabajó con el rover para explorar el planeta.<br>
+        <br>Marte es conocido desde la antigüedad porque se puede ver sin telescopios avanzados.</br>
+        <br>En Marte ha volado un helicóptero. ¡De veras! El helicóptero de Marte, Ingenuity, realizó con éxito pruebas de vuelo motorizado y controlado en otro mundo por primera vez.</br>
+        <br>Viajó a Marte como pasajero del rover Perseverance y trabajó con el rover para explorar el planeta.</br>
     ]]>
 </string>
 
@@ -161,31 +161,31 @@
     <string name="planeta_jupiter_desc">
     <![CDATA[
         Júpiter es el planeta más grande de nuestro sistema solar. Es parecido a una estrella, pero nunca tuvo la masa suficiente para comenzar a arder. Está cubierto de bandas de nubes arremolinadas. Tiene grandes tormentas como la Gran Mancha Roja, que existe desde hace cientos de años. Júpiter es un gigante gaseoso y no tiene una superficie sólida.
-        <br>Todavía no está claro si en el fondo Júpiter tiene un núcleo central de material sólido o si podría ser una sopa espesa, supercaliente y densa. Júpiter también tiene anillos, pero son demasiado tenues para verlos con claridad.<br>
+        <br>Todavía no está claro si en el fondo Júpiter tiene un núcleo central de material sólido o si podría ser una sopa espesa, supercaliente y densa. Júpiter también tiene anillos, pero son demasiado tenues para verlos con claridad.</br>
 
 
-        <b><br><br>Estructura y superficie</b><br><br>
-        <br>Júpiter es el planeta más grande de nuestro sistema solar. En realidad, tiene más del doble de la masa combinada de los demás planetas de nuestro sistema solar.<br>
-        <br>Júpiter es un gigante gaseoso. Está compuesto principalmente de hidrógeno y helio.<br>
-        <br>Júpiter tiene una atmósfera muy densa.<br>
-        <br>Júpiter tiene anillos, pero son muy difíciles de observar.<br>
-        <br>La Gran Mancha Roja de este planeta gigante es una tormenta centenaria más grande que la Tierra.<br>
+        <b><br><br>Estructura y superficie</b></br></br>
+        <br>Júpiter es el planeta más grande de nuestro sistema solar. En realidad, tiene más del doble de la masa combinada de los demás planetas de nuestro sistema solar.</br>
+        <br>Júpiter es un gigante gaseoso. Está compuesto principalmente de hidrógeno y helio.</br>
+        <br>Júpiter tiene una atmósfera muy densa.</br>
+        <br>Júpiter tiene anillos, pero son muy difíciles de observar.</br>
+        <br>La Gran Mancha Roja de este planeta gigante es una tormenta centenaria más grande que la Tierra.</br>
 
 
-        <b><br><br>El tiempo en Júpiter</b><br><br>
-        <br>Un día en Júpiter transcurre en apenas 10 horas.<br>
-        <br>Un año en Júpiter equivale a 11,8 años terrestres.<br>
+        <b><br><br>El tiempo en Júpiter</b></br></br>
+        <br>Un día en Júpiter transcurre en apenas 10 horas.</br>
+        <br>Un año en Júpiter equivale a 11,8 años terrestres.</br>
 
 
-        <b><br><br>Los vecinos de Júpiter</b><br><br>
-        <br>Júpiter tiene 95 lunas reconocidas oficialmente.<br>
-        <br>Júpiter es el quinto planeta desde el Sol. Eso significa que Marte y Saturno son los planetas vecinos de Júpiter.<br>
+        <b><br><br>Los vecinos de Júpiter</b></br></br>
+        <br>Júpiter tiene 95 lunas reconocidas oficialmente.</br>
+        <br>Júpiter es el quinto planeta desde el Sol. Eso significa que Marte y Saturno son los planetas vecinos de Júpiter.</br>
 
 
-        <b><br><br>Historia breve</b><br><br>
-        <br>Júpiter es conocido desde la antigüedad porque se puede ver fácilmente a simple vista. No se necesita ningún equipo especial.<br>
-        <br>Júpiter ha sido visitado o sobrevolado por varias naves, orbitadores y sondas espaciales, tales como Pioneer 10 y 11, Voyager 1 y 2, Cassini, New Horizons y Juno.<br>
-        <br>¡Júpiter tiene auroras, como en la Tierra! Las auroras no solo tienen un gran tamaño, sino que también son cientos de veces más energéticas que las auroras de la Tierra. Y, a diferencia de las de la Tierra, nunca cesan.<br>
+        <b><br><br>Historia breve</b></br></br>
+        <br>Júpiter es conocido desde la antigüedad porque se puede ver fácilmente a simple vista. No se necesita ningún equipo especial.</br>
+        <br>Júpiter ha sido visitado o sobrevolado por varias naves, orbitadores y sondas espaciales, tales como Pioneer 10 y 11, Voyager 1 y 2, Cassini, New Horizons y Juno.</br>
+        <br>¡Júpiter tiene auroras, como en la Tierra! Las auroras no solo tienen un gran tamaño, sino que también son cientos de veces más energéticas que las auroras de la Tierra. Y, a diferencia de las de la Tierra, nunca cesan.</br>
     ]]>
 </string>
 
@@ -195,62 +195,61 @@
 
     <string name="planeta_saturno_desc">
     <![CDATA[
-        <br>Saturno no es el único planeta que tiene anillos, pero definitivamente tiene los más bellos. Los anillos que vemos están compuestos por grupos de pequeños aros que rodean a Saturno. Están hechos de pedazos de hielo y roca. Como Júpiter, Saturno es una pelota de hidrógeno y helio, en gran parte.<br>
+        <br>Saturno no es el único planeta que tiene anillos, pero definitivamente tiene los más bellos. Los anillos que vemos están compuestos por grupos de pequeños aros que rodean a Saturno. Están hechos de pedazos de hielo y roca. Como Júpiter, Saturno es una pelota de hidrógeno y helio, en gran parte.</br>
         Cuando Galileo Galilei vio a Saturno a través de un telescopio en el siglo XVII, no estaba seguro de lo que estaba viendo.
-        <br>Al principio, creyó que estaba mirando tres planetas, o un planeta con asas. Ahora, sabemos que esas "asas" eran los anillos de Saturno.<br>
+        <br>Al principio, creyó que estaba mirando tres planetas, o un planeta con asas. Ahora, sabemos que esas "asas" eran los anillos de Saturno.</br>
 
-        <b><br><br>Estructura y superficie</b><br><br>
-        <br>Es un gigante de gas, como Júpiter. Está compuesto por hidrógeno y helio, sobre todo.<br>
-        <br>Tiene una atmósfera densa.<br>
-        <br>Cuenta con un precioso grupo de siete anillos separados por espacio entre ellos.<br>
 
-        <b><br><br>El tiempo en Saturno</b><br><br>
-        <br>Un día solo dura 10,7 horas.<br>
-        <br>Su año equivale a 29 años en la Tierra.<br>
+         <b><br><br>Estructura y superficie </b></br></br>
+        <br>Es un gigante de gas, como Júpiter. Está compuesto por hidrógeno y helio, sobre todo.</br>
+        <br>Tiene una atmósfera densa.</br>
+        <br>Cuenta con un precioso grupo de siete anillos separados por espacio entre ellos.</br>
 
-        <b><br><br>Sus vecinos</b><br><br>
-        <br>Saturno tiene 274 lunas que conocemos hasta ahora.<br>
-        <br>Es el sexto planeta contando desde el Sol. Sus planetas vecinos son Júpiter y Urano.<br>
 
-        <b><br><br>Breve historia</b><br><br>
-        <br>Se conoce su existencia desde la antigüedad, ya que podemos verlo sin necesidad de usar telescopios avanzados.<br>
-        <br>Cuatro naves robotizadas han visitado Saturno: Pioneer 11, Cassini y Voyager 1 y 2.<br>
+         <b><br><br>El tiempo en Saturno </b></br></br>
+        <br>Un día solo dura 10,7 horas.</br>
+        <br>Su año equivale a 29 años en la Tierra.</br>
+
+         <b><br><br>Sus vecinos </b></br></br>
+        <br>Saturno tiene 274 lunas que conocemos hasta ahora.</br>
+        <br>Es el sexto planeta contando desde el Sol. Sus planetas vecinos son Júpiter y Urano.</br>
+
+         <b><br><br>Breve historia </b></br></br>
+        <br>Se conoce su existencia desde la antigüedad, ya que podemos verlo sin necesidad de usar telescopios avanzados.</br>
+        <br>Cuatro naves robotizadas han visitado Saturno: Pioneer 11, Cassini y Voyager 1 and 2.</br>
     ]]>
 </string>
-
 
 
 
     <string name="planeta_urano_titulo">Urano</string>
-
     <string name="planeta_urano_desc">
     <![CDATA[
-        <br>Urano está compuesto de agua, metano y amoniaco sobre un pequeño centro rocoso.<br>
+         <br>Urano está compuesto de agua, metano y amoniaco sobre un pequeño centro rocoso. </br>
         Su atmósfera está hecha de hidrógeno y helio, como Júpiter y Saturno, pero además contiene metano. El metano es lo que le da a Urano el color azul.
         Urano también tiene anillos tenues. Los anillos internos son angostos y oscuros. Los anillos externos tienen colores vivos y son más fáciles de ver. Como Venus, Urano rota en dirección opuesta a la de la mayoría de los otros planetas.
-        <br>Y, a diferencia de cualquier otro planeta, Urano rota de lado.<br>
+         <br> </b>Y, a diferencia de cualquier otro planeta, Urano rota de lado. </br> </b>
 
-        <b><br><br>Estructura y superficie</b><br><br>
-        <br>Está rodeado por 13 anillos.<br>
-        <br>Es un gigante de hielo, en lugar de un gigante de gas. Está compuesto, en su mayor parte, por hielo fluido sobre un núcleo sólido.<br>
-        <br>Tiene una atmósfera densa hecha de metano, hidrógeno y helio.<br>
-        <br>Es el único planeta que rota de lado.<br>
-        <br>Da vueltas en la dirección contraria a la de la Tierra y de la mayoría de los planetas.<br>
+        <b><br><br>Estructura y superficie</b></br></br>
+        <br>Está rodeado por 13 anillos.</br>
+        <br>Es un gigante de hielo, en lugar de un gigante de gas. Está compuesto, en su mayor parte, por hielo fluido sobre un núcleo sólido.</br>
+        <br>Tiene una atmósfera densa hecha de metano, hidrógeno y helio.</br>
+        <br>Es el único planeta que rota de lado.</br>
+        <br>Da vueltas en la dirección contraria a las de la Tierra y de la mayoría de los planetas.</br>
 
-        <b><br><br>El tiempo en Urano</b><br><br>
-        <br>Un día dura un poco más de 17 horas… 17 horas y 14 minutos, para ser exactos.<br>
-        <br>Un año equivale a 84 años en la Tierra. ¡Tendrías que esperar demasiado para soplar las velas de tu cumpleaños!<br>
+        <b><br><br>El tiempo en Urano</b></br></br>
+        Un día dura un poco más de 17 horas. 17 horas y 14 minutos, para ser exactos.</br>
+        Un año equivale a 84 año en la Tierra. ¡Tendrías que esperar demasiado para soplar las velas de tu cumpleaños!</br>
 
-        <b><br><br>Los vecinos de Urano</b><br><br>
-        <br>Se han identificado 28 lunas.<br>
-        <br>Es el séptimo planeta contando desde el Sol, lo que significa que sus vecinos son Saturno y Neptuno.<br>
+        <b><br><br>Los vecinos de Urano</b></br></br>
+        Se han identificado 28 lunas.</br>
+        Es el séptimo planeta contando desde el Sol, lo que significa que sus vecinos son Saturno y Neptuno.</br>
 
-        <b><br><br>Breve historia</b><br><br>
-        <br>Urano fue descubierto en 1781 por William Herschel, en el Reino Unido.<br>
-        <br>Solo ha recibido la visita del Voyager 2.<br>
+        <b><br><br>Breve historia</b></br></br>
+        <br>Urano fue descubierto en 1781 por William Herschel, en el Reino Unido.</br>
+        <br>Solo ha recibido la visita del Voyager 2</br>
     ]]>
-</string>
-
+    </string>
 
 
 
@@ -258,70 +257,71 @@
 
     <string name="planeta_neptuno_desc">
     <![CDATA[
-        <br>Neptuno es oscuro, frío y muy ventoso. Es el último de los planetas de nuestro sistema solar. Está más de 30 veces más lejos del Sol que la Tierra.<br>
+        <br>Neptuno es oscuro, frío y muy ventoso. Es el último de los planetas de nuestro sistema solar. Está más de 30 veces más lejos del Sol que la Tierra. </br>
         Neptuno es muy parecido a Urano. Está compuesto de una espesa mezcla de agua, amoniaco y metano sobre un centro sólido del tamaño de la Tierra.
-        Su atmósfera se compone de hidrógeno, helio y metano. El metano le da a Neptuno el mismo color azul de Urano. Neptuno tiene seis anillos que no se ven fácilmente.<br>
+        Su atmósfera se compone de hidrógeno, helio y metano. El metano le da a Neptuno el mismo color azul de Urano. Neptuno tiene seis anillos que no se ven fácilmente.
 
-        <b><br><br>Estructura y superficie</b><br><br>
-        <br>Está rodeado por seis anillos.<br>
-        <br>Como Urano, es un gigante de hielo. Es parecido a un gigante de gas. Está hecho de una espesa mezcla de agua, amoniaco y metano sobre un centro sólido del tamaño de la Tierra.<br>
-        <br>Tiene una atmósfera densa y ventosa.<br>
+        <b><br><br>Estructura y superficie</b></br></br>
+        <br>Está rodeado por seis anillos./br>
+        <br>Como Urano, es un gigante de hielo. Es parecido a un gigante de gas. Está hecho de una espesa mezcla de agua, amoniaco y metano sobre un centro sólido del tamaño de la Tierra.</br>
+        <br>Tiene una atmósfera densa y ventosa.</br>
 
-        <b><br><br>El tiempo en Neptuno</b><br><br>
-        <br>Un día dura 16 horas.<br>
-        <br>Su recorrido alrededor del Sol es tan largo que tarda 165 años terrestres en completarlo… ¡Tiene un año larguísimo!<br>
 
-        <b><br><br>Los vecinos de Neptuno</b><br><br>
-        <br>Tiene 16 lunas.<br>
-        <br>Es el octavo planeta respecto al Sol, y también el más alejado de él. Eso significa que Urano es el único vecino de Neptuno.<br>
+        <b><br><br>El tiempo en Neptuno</b></br></br>
+        <br>Un día dura 16 horas.</br>
+        <br>Su recorrido alrededor del Sol es tan largo que tarda 165 años terrestres en completarlo… ¡Tiene un año larguísimo!</br>
 
-        <b><br><br>Historia breve</b><br><br>
-        <br>Fue descubierto en 1846 por Urbain Le Verrier, John Couch Adams y Johann Galle.<br>
-        <br>Solo lo ha visitado el Voyager 2.<br>
+        <b><br><br>Los vecinos de Neptuno</b></br></br>
+       <br> Tiene 16 lunas.</br>
+        <br>Es el octavo planeta respecto al Sol, y también el más alejado de él. Eso significa que Urano es el único vecino de Neptuno.</br>
+
+        <b><br><br>Historia breve</b></br></br>
+        <br>Fue descubierto en 1846 por Urbain Le Verrier, John Couch Adams y Johann Galle.</br>
+        <br>Solo lo ha visitado el Voyager 2.</br>
     ]]>
 </string>
 
 
-    <!-- ============================================================== -->
+        <!-- ============================================================== -->
         <!--                     PLANETAS ENANOS                            -->
         <!-- ============================================================== -->
 
     <string name="planeta_pluton_titulo">Plutón</string>
     <string name="planeta_pluton_desc">
     <![CDATA[
-        <br>Plutón es un planeta enano ubicado en una región distante de nuestro sistema solar, más allá de Neptuno, conocida como el Cinturón de Kuiper.<br>
-        <br>Plutón fue considerado durante mucho tiempo nuestro noveno planeta, pero la Unión Astronómica Internacional lo reclasificó como planeta enano en 2006. La sonda New Horizons de la NASA fue la primera nave espacial en explorar Plutón de cerca, sobrevolándolo en 2015.<br>
+        <br>Plutón es un planeta enano ubicado en una región distante de nuestro sistema solar, más allá de Neptuno, conocida como el Cinturón de Kuiper.</br>
+        <br>Plutón fue considerado durante mucho tiempo nuestro noveno planeta, pero la Unión Astronómica Internacional lo reclasificó como planeta enano en 2006. La sonda New Horizons de la NASA fue la primera nave espacial en explorar Plutón de cerca, sobrevolándolo en 2015.</br>
 
-        <b><br><br>¿Cuál de las siguientes frases describe mejor a Plutón?</b><br><br>
-        <br>Un Plutón naranja sonríe a un pequeño Caronte gris. <br>
-        <br>Caronte se encuentra sobre una línea punteada ovalada que representa su órbita alrededor de Plutón y le devuelve la sonrisa. <br>
-        <br>Plutón luce una corona amarilla con tres piedras: una roja y dos verdes.<br>
+        <b><br><br>¿Cuál de las siguientes frases describe mejor a Plutón?</b></br></br>
+        <br>Un Plutón naranja sonríe a un pequeño Caronte gris. </br>
+        <br>Caronte se encuentra sobre una línea punteada ovalada que representa su órbita alrededor de Plutón y le devuelve la sonrisa. </br>
+        <br>Plutón luce una corona amarilla con tres piedras: una roja y dos verdes.</br>
 
-        <br>En realidad, Plutón está más cerca del Sol que Neptuno durante aproximadamente el 8% de su órbita.<br>
-        <br>Plutón es solo uno de los muchos objetos helados que se encuentran en una zona distante de nuestro sistema solar.<br>
-        <br>Plutón y su gran luna Caronte, que orbita a su alrededor, están inclinados de lado.<br>
-        <br>Plutón está casi 40 veces más lejos del Sol que la Tierra.<br>
-        <b><br><br>Todo lo anterior.</b><br><br>
+        <br>En realidad, Plutón está más cerca del Sol que Neptuno durante aproximadamente el 8% de su órbita.</br>
+        <br>Plutón es solo uno de los muchos objetos helados que se encuentran en una zona distante de nuestro sistema solar.</br>
+        <br>Plutón y su gran luna Caronte, que orbita a su alrededor, están inclinados de lado.</br>
+        <br>Plutón está casi 40 veces más lejos del Sol que la Tierra.</br>
+        <b><br><br>Todo lo anterior.</b></br></br>
 
-        <b><br><br><i>Bueno, elige la respuesta que más te guste, ¡porque todas son ciertas!</i></b><br><br>
+        <b><br><br><i>Bueno, elige la respuesta que más te guste, ¡porque todas son ciertas!</i></b></br></br>
 
         <br>Plutón es un planeta enano que se encuentra en el cinturón de Kuiper . Es una región repleta de cuerpos helados y otros planetas enanos en los confines de nuestro sistema solar. Plutón es conocido como el «rey del cinturón de Kuiper» y es el objeto más grande de la región, aunque otro objeto de tamaño similar, llamado Eris, tiene una masa ligeramente superior.<br>
-        <br>Una cosa es segura: Plutón y su vecindario son muy peculiares. Si los científicos pudieran desentrañar algunos de sus misterios, sabríamos más sobre cómo se formó nuestro sistema solar.<br>
+        <br>Una cosa es segura: Plutón y su vecindario son muy peculiares. Si los científicos pudieran desentrañar algunos de sus misterios, sabríamos más sobre cómo se formó nuestro sistema solar.</br>
     ]]>
     </string>
 
     <string name="planeta_ceres_titulo">Ceres</string>
     <string name="planeta_ceres_desc">
         <![CDATA[
-            <br>Ceres es el único planeta enano del sistema solar interior. Fue el primer planeta enano en recibir la visita de una sonda espacial.<br>
+            <br>Ceres es el único planeta enano del sistema solar interior. Fue el primer planeta enano en recibir la visita de una sonda espacial.</br>
 
-            <br>El planeta enano Ceres es el objeto más grande del cinturón de asteroides entre Marte y Júpiter, y el único planeta enano ubicado en el sistema solar interior. Fue el primer miembro del cinturón de asteroides en ser descubierto cuando Giuseppe Piazzi lo avistó en 1801.<br><br>
+            <br>El planeta enano Ceres es el objeto más grande del cinturón de asteroides entre Marte y Júpiter, y el único planeta enano ubicado en el sistema solar interior. Fue el primer miembro del cinturón de asteroides en ser descubierto cuando Giuseppe Piazzi lo avistó en 1801.</br></br>
 
-            <br>Ceres, llamado asteroide durante muchos años, es mucho más grande y tan diferente de sus vecinos rocosos que los científicos lo clasificaron como planeta enano en 2006. Aunque Ceres comprende el 25% de la masa total del cinturón de asteroides, Plutón sigue siendo 14 veces más masivo.<br><br>
+            <br>Ceres, llamado asteroide durante muchos años, es mucho más grande y tan diferente de sus vecinos rocosos que los científicos lo clasificaron como planeta enano en 2006. Aunque Ceres comprende el 25% de la masa total del cinturón de asteroides, Plutón sigue siendo 14 veces más masivo.</br></br>
 
-            <br>Ceres es uno de los pocos lugares de nuestro sistema solar donde los científicos desean buscar posibles indicios de vida. Ceres posee algo que muchos otros planetas carecen: agua. Aquí en la Tierra, el agua es esencial para la vida, por lo que es posible que algún otro lugar con ese ingrediente y algunas otras condiciones también la albergue. Si algo vive en Ceres, es probable que se trate de microbios muy pequeños similares a bacterias. Si Ceres no alberga seres vivos hoy en día, podría haber indicios de que albergó vida en el pasado.<br><br>
+            <br>Ceres es uno de los pocos lugares de nuestro sistema solar donde los científicos desean buscar posibles indicios de vida. Ceres posee algo que muchos otros planetas carecen: agua. Aquí en la Tierra, el agua es esencial para la vida, por lo que es posible que algún otro lugar con ese ingrediente y algunas otras condiciones también la albergue. Si algo vive en Ceres, es probable que se trate de microbios muy pequeños similares a bacterias. Si Ceres no alberga seres vivos hoy en día, podría haber indicios de que albergó vida en el pasado.</br></br>
 
-            <br>Con un radio de 476 kilómetros, Ceres tiene 1/13 del radio de la Tierra. Si la Tierra tuviera el tamaño de una moneda de cinco centavos, Ceres sería aproximadamente tan grande como una semilla de amapola.<br><br>
+            <br>Con un radio de 476 kilómetros, Ceres tiene 1/13 del radio de la Tierra. Si la Tierra tuviera el tamaño de una moneda de cinco centavos, Ceres sería aproximadamente tan grande como una semilla de amapola.</br></br>
         ]]>
     </string>
 
@@ -329,17 +329,17 @@
     <string name="planeta_eris_titulo">Eris</string>
     <string name="planeta_eris_desc">
         <![CDATA[
-            <br><br>Eris es uno de los planetas enanos más grandes de nuestro sistema solar. Tiene aproximadamente el mismo tamaño que Plutón, pero está tres veces más lejos del Sol.<br>
+            <br><br>Eris es uno de los planetas enanos más grandes de nuestro sistema solar. Tiene aproximadamente el mismo tamaño que Plutón, pero está tres veces más lejos del Sol.</br>
 
-            <br><br>El descubrimiento de Eris desató un debate en la comunidad científica que condujo a la decisión de la Unión Astronómica Internacional en 2006 de aclarar la definición de planeta. Plutón, Eris y otros objetos similares se clasifican ahora como planetas enanos.<br><br>
+            <br><br>El descubrimiento de Eris desató un debate en la comunidad científica que condujo a la decisión de la Unión Astronómica Internacional en 2006 de aclarar la definición de planeta. Plutón, Eris y otros objetos similares se clasifican ahora como planetas enanos.</br></br>
 
-            <br><br>Originalmente designado como 2003 UB 313 , y apodado por su equipo de descubrimiento en honor a la guerrera televisiva Xena, Eris recibe su nombre de la antigua diosa griega de la discordia y la discordia. El nombre es apropiado, ya que Eris sigue siendo el centro del debate científico sobre la definición de planeta.<br><br>
+            <br><br>Originalmente designado como 2003 UB 313 , y apodado por su equipo de descubrimiento en honor a la guerrera televisiva Xena, Eris recibe su nombre de la antigua diosa griega de la discordia y la discordia. El nombre es apropiado, ya que Eris sigue siendo el centro del debate científico sobre la definición de planeta.</br></br>
 
-            <br><br>La superficie de Eris es extremadamente fría, por lo que parece poco probable que pueda existir vida allí.<br><br>
+            <br><br>La superficie de Eris es extremadamente fría, por lo que parece poco probable que pueda existir vida allí.</br></br>
 
-            <br><br>Con un diámetro ecuatorial de aproximadamente 2400 kilómetros, Eris tiene aproximadamente una quinta parte del ancho de la Tierra. Eris, al igual que Plutón, es un poco más pequeño que la Luna. Si la Tierra tuviera el tamaño de una moneda de cinco centavos, Eris sería casi tan grande como un grano de palomitas de maíz.<br><br>
+            <br><br>Con un diámetro ecuatorial de aproximadamente 2400 kilómetros, Eris tiene aproximadamente una quinta parte del ancho de la Tierra. Eris, al igual que Plutón, es un poco más pequeño que la Luna. Si la Tierra tuviera el tamaño de una moneda de cinco centavos, Eris sería casi tan grande como un grano de palomitas de maíz.</br></br>
 
-            <br><br>Eris tiene una luna muy pequeña llamada Disnomia. Disnomia tiene una órbita casi circular que dura unos 16 días. Esta luna recibe su nombre de la hija de Eris, la diosa demoníaca del caos.<br><br>
+            <br><br>Eris tiene una luna muy pequeña llamada Disnomia. Disnomia tiene una órbita casi circular que dura unos 16 días. Esta luna recibe su nombre de la hija de Eris, la diosa demoníaca del caos.</br></br>
         ]]>
     </string>
 
@@ -349,19 +349,19 @@
 
     <string name="planeta_makemake_desc">
         <![CDATA[
-            <br>El planeta enano Makemake –junto con Plutón, Haumea y Eris– se encuentra en el cinturón de Kuiper, una región con forma de rosquilla formada por cuerpos helados más allá de la órbita de Neptuno.<br>
+            <br>El planeta enano Makemake –junto con Plutón, Haumea y Eris– se encuentra en el cinturón de Kuiper, una región con forma de rosquilla formada por cuerpos helados más allá de la órbita de Neptuno.</br>
 
-            <br><br>Makemake es ligeramente más pequeño que Plutón y es el segundo objeto más brillante del Cinturón de Kuiper visto desde la Tierra, mientras que Plutón es el más brillante. Este planeta enano tarda unos 305 años terrestres en dar una vuelta al Sol.<br><br>
+            <br><br>Makemake es ligeramente más pequeño que Plutón y es el segundo objeto más brillante del Cinturón de Kuiper visto desde la Tierra, mientras que Plutón es el más brillante. Este planeta enano tarda unos 305 años terrestres en dar una vuelta al Sol.</br></br>
 
-            <br><br>Makemake ocupa un lugar importante en la historia de los estudios del sistema solar porque fue uno de los objetos, junto con Eris, cuyo descubrimiento impulsó a la Unión Astronómica Internacional a reconsiderar la definición de planeta y a crear el nuevo grupo de planetas enanos.<br><br>
+            <br><br>Makemake ocupa un lugar importante en la historia de los estudios del sistema solar porque fue uno de los objetos, junto con Eris, cuyo descubrimiento impulsó a la Unión Astronómica Internacional a reconsiderar la definición de planeta y a crear el nuevo grupo de planetas enanos.</br></br>
 
-            <br><br>Makemake debe su nombre al dios rapanui de la fertilidad.<br><br>
+            <br><br>Makemake debe su nombre al dios rapanui de la fertilidad.</br></br>
 
-            <br><br>La superficie de Makemake es extremadamente fría, por lo que parece poco probable que pueda existir vida allí.<br><br>
+            <br><br>La superficie de Makemake es extremadamente fría, por lo que parece poco probable que pueda existir vida allí.</br></br>
 
-            <br><br>Con un radio de aproximadamente 715 kilómetros (444 millas), Makemake tiene 1/9 del radio de la Tierra. Si la Tierra tuviera el tamaño de una moneda de cinco centavos, Makemake sería casi tan grande como una semilla de mostaza.<br><br>
+            <br><br>Con un radio de aproximadamente 715 kilómetros (444 millas), Makemake tiene 1/9 del radio de la Tierra. Si la Tierra tuviera el tamaño de una moneda de cinco centavos, Makemake sería casi tan grande como una semilla de mostaza.</br></br>
 
-            <br><br>Makemake tiene una luna provisional, S/2015 (136472) 1, apodada MK 2. Es más de 1300 veces más débil que Makemake. MK 2 fue avistado aproximadamente a 21 000 kilómetros del planeta enano, y su radio se estima en unos 80 kilómetros (50 millas).<br><br>
+            <br><br>Makemake tiene una luna provisional, S/2015 (136472) 1, apodada MK 2. Es más de 1300 veces más débil que Makemake. MK 2 fue avistado aproximadamente a 21 000 kilómetros del planeta enano, y su radio se estima en unos 80 kilómetros (50 millas).</br></br>
         ]]>
     </string>
 
@@ -369,22 +369,22 @@
 
     <string name="planeta_haumea_titulo">Haumea</string>
     <string name="planeta_haumea_desc">
-    <![CDATA[
-        <br>El planeta enano Haumea fue originalmente designado como 2003 EL61 (y apodado Santa por un equipo de descubrimiento). Haumea se encuentra en los cinturones de Kuiper, una región con forma de rosquilla compuesta por cuerpos helados más allá de la órbita de Neptuno.</br>
+        <![CDATA[
+            <br>El planeta enano Haumea fue originalmente designado como 2003 EL61 (y apodado Santa por un equipo de descubrimiento). Haumea se encuentra en los cinturones de Kuiper, una región con forma de rosquilla compuesta por cuerpos helados más allá de la órbita de Neptuno.</br>
 
-        <br><br>Haumea es un planeta enano de forma ovalada y uno de los objetos grandes que giran más rápido en nuestro sistema solar. Su rápida rotación distorsiona su forma, dándole un aspecto similar al de un balón de fútbol americano.</br></br>
+            <br><br>Haumea es un planeta enano de forma ovalada y uno de los objetos grandes que giran más rápido en nuestro sistema solar. Su rápida rotación distorsiona su forma, dándole un aspecto similar al de un balón de fútbol americano.</br></br>
 
-        <br><br>Haumea es extremadamente fría y no parece tener condiciones adecuadas para la vida.</br></br>
+            <br><br>Haumea es extremadamente fría y no parece tener condiciones adecuadas para la vida.</br></br>
 
-        <br><br>Con un diámetro ecuatorial de aproximadamente 1740 kilómetros (1080 millas), Haumea tiene aproximadamente 1/7 del ancho de la Tierra. Si la Tierra tuviera el tamaño de una moneda de cinco centavos, Haumea sería aproximadamente tan grande como una semilla de sésamo.</br></br>
+            <br><br>Con un diámetro ecuatorial de aproximadamente 1740 kilómetros (1080 millas), Haumea tiene aproximadamente 1/7 del ancho de la Tierra. Si la Tierra tuviera el tamaño de una moneda de cinco centavos, Haumea sería aproximadamente tan grande como una semilla de sésamo.</br></br>
 
-        <br><br>Haumea tarda 285 años terrestres en realizar un viaje alrededor del Sol. Mientras Haumea orbita alrededor del Sol, completa una rotación cada 4 horas, lo que lo convierte en uno de los objetos grandes que giran más rápido en nuestro sistema solar.</br></br>
+            <br><br>Haumea tarda 285 años terrestres en realizar un viaje alrededor del Sol. Mientras Haumea orbita alrededor del Sol, completa una rotación cada 4 horas, lo que lo convierte en uno de los objetos grandes que giran más rápido en nuestro sistema solar.</br></br>
 
-        <br><br>Haumea tiene dos lunas conocidas: Namaka, la luna interior, y Hi’iaka, la luna exterior. Ambas fueron descubiertas en 2005 y recibieron su nombre de las hijas mitológicas de Haumea. Hi’iaka es la diosa patrona de la isla de Hawái y de las bailarinas de hula. Namaka es un espíritu del agua en la mitología hawaiana.</br></br>
+            <br><br>Haumea tiene dos lunas conocidas: Namaka, la luna interior, y Hi'iaka, la luna exterior. Ambas fueron descubiertas en 2005 y recibieron su nombre de las hijas mitológicas de Haumea. Hi'iaka es la diosa patrona de la isla de Hawái y de las bailarinas de hula. Namaka es un espíritu del agua en la mitología hawaiana.</br></br>
 
-        <br><br>Haumea es el primer objeto conocido del Cinturón de Kuiper con anillos. Los científicos anunciaron el descubrimiento en 2017 tras observar el paso del planeta enano frente a una estrella.</br></br>
-    ]]>
-</string>
+            <br><br>Haumea es el primer objeto conocido del Cinturón de Kuiper con anillos. Los científicos anunciaron el descubrimiento en 2017 tras observar el paso del planeta enano frente a una estrella.</br></br>
+        ]]>
+    </string>
 
 
 
@@ -395,13 +395,13 @@
     <string name="nebulosa_orion_titulo">Orion</string>
     <string name="nebulosa_orion_desc">
         <![CDATA[
-            <br>Considerada por los mayas de Mesoamérica como el fuego cósmico de la creación, M42 brilla intensamente en la constelación de Orión. Popularmente conocida como la Nebulosa de Orión, esta región de formación estelar ha sido reconocida por diversas culturas a lo largo de la historia. La nebulosa se encuentra a tan solo 1500 años luz de distancia, lo que la convierte en la región de formación estelar más cercana a la Tierra y le confiere una magnitud aparente relativamente alta de 4. Gracias a su brillo y su ubicación privilegiada justo debajo del cinturón de Orión, M42 puede observarse a simple vista, y quienes dispongan de telescopios podrán contemplar el nacimiento de las estrellas con gran detalle.<br>
+            <br>Considerada por los mayas de Mesoamérica como el fuego cósmico de la creación, M42 brilla intensamente en la constelación de Orión. Popularmente conocida como la Nebulosa de Orión, esta región de formación estelar ha sido reconocida por diversas culturas a lo largo de la historia. La nebulosa se encuentra a tan solo 1500 años luz de distancia, lo que la convierte en la región de formación estelar más cercana a la Tierra y le confiere una magnitud aparente relativamente alta de 4. Gracias a su brillo y su ubicación privilegiada justo debajo del cinturón de Orión, M42 puede observarse a simple vista, y quienes dispongan de telescopios podrán contemplar el nacimiento de las estrellas con gran detalle.</br>
 
-            <br><br>La comparación que hace la cultura maya de la Nebulosa de Orión con un fuego cósmico de la creación es muy acertada. La nebulosa es una enorme nube de polvo y gas donde se forjan innumerables estrellas nuevas. Su brillante región central alberga cuatro estrellas jóvenes y masivas que dan forma a la nebulosa. Estas cuatro estrellas gigantes se denominan el Trapecio debido a su disposición trapezoidal. La luz ultravioleta que emiten está creando una cavidad en la nebulosa e interrumpiendo el crecimiento de cientos de estrellas más pequeñas.<br><br>
+            <br><br>La comparación que hace la cultura maya de la Nebulosa de Orión con un fuego cósmico de la creación es muy acertada. La nebulosa es una enorme nube de polvo y gas donde se forjan innumerables estrellas nuevas. Su brillante región central alberga cuatro estrellas jóvenes y masivas que dan forma a la nebulosa. Estas cuatro estrellas gigantes se denominan el Trapecio debido a su disposición trapezoidal. La luz ultravioleta que emiten está creando una cavidad en la nebulosa e interrumpiendo el crecimiento de cientos de estrellas más pequeñas.</br></br>
 
-            <br><br>Si quieres encontrar esta famosa nebulosa, primero tienes que localizar la constelación de Orión. Por suerte, es fácil si buscas en la época del año adecuada. Los meses de invierno del hemisferio norte (los meses de verano del hemisferio sur) son el momento perfecto para conocer Orión.<br><br>
+            <br><br>Si quieres encontrar esta famosa nebulosa, primero tienes que localizar la constelación de Orión. Por suerte, es fácil si buscas en la época del año adecuada. Los meses de invierno del hemisferio norte (los meses de verano del hemisferio sur) son el momento perfecto para conocer Orión.</br></br>
 
-            <br><br>La mayoría de las nebulosas (nubes de gas y polvo interestelar) son difíciles, si no imposibles, de ver a simple vista o incluso con binoculares. Pero la nebulosa de Orión es una especie casi única. Es visible a simple vista en una noche oscura y sin luna.<br><br>
+            <br><br>La mayoría de las nebulosas (nubes de gas y polvo interestelar) son difíciles, si no imposibles, de ver a simple vista o incluso con binoculares. Pero la nebulosa de Orión es una especie casi única. Es visible a simple vista en una noche oscura y sin luna.</br></br>
         ]]>
     </string>
 
@@ -410,15 +410,15 @@
     <string name="nebulosa_pilares_titulo">Pilares de la Creación</string>
     <string name="nebulosa_pilares_desc">
         <![CDATA[
-        <br>Los Pilares de la Creación son formaciones colosales de gas y polvo interestelar que se extienden como imponentes columnas tridimensionales en el vacío del espacio. Aunque su apariencia recuerda a estructuras sólidas y estáticas, en realidad son altamente dinámicas y permeables. Dentro de ellas, el gas y el polvo interactúan, colapsando bajo la influencia de la gravedad para dar origen a nuevas estrellas.<br><br>
-        <br><br>Los Pilares de la Creación son gigantescas columnas de gas y polvo interestelar ubicadas en la Nebulosa del Águila, a unos 6,500 años luz de la Tierra. Su nombre se debe a que, en su interior, se están formando nuevas estrellas, un proceso de "creación" estelar que convive con la erosión que causa la radiación de estrellas cercanas. Se hicieron mundialmente famosos en 1995 por una icónica imagen del Telescopio Espacial Hubble<br><br>
+        <br>Los Pilares de la Creación son formaciones colosales de gas y polvo interestelar que se extienden como imponentes columnas tridimensionales en el vacío del espacio. Aunque su apariencia recuerda a estructuras sólidas y estáticas, en realidad son altamente dinámicas y permeables. Dentro de ellas, el gas y el polvo interactúan, colapsando bajo la influencia de la gravedad para dar origen a nuevas estrellas.</br></br>
+        <br><br>Los Pilares de la Creación son gigantescas columnas de gas y polvo interestelar ubicadas en la Nebulosa del Águila, a unos 6,500 años luz de la Tierra. Su nombre se debe a que, en su interior, se están formando nuevas estrellas, un proceso de "creación" estelar que convive con la erosión que causa la radiación de estrellas cercanas. Se hicieron mundialmente famosos en 1995 por una icónica imagen del Telescopio Espacial Hubble</br></br>
 
-        <br><br>La imagen del Hubble sugería que en estos pilares se estaban formando nuevas estrellas, en concreto dentro de aglomeraciones de gas conocidas como EGG, siglas en inglés de Glóbulos Gaseosos en Evaporación. Pero el polvo presente en la región impedía al Hubble ver lo que ocurría, y comprobar que efectivamente los pilares albergan estrellas en formación.<br><br>
+        <br><br>La imagen del Hubble sugería que en estos pilares se estaban formando nuevas estrellas, en concreto dentro de aglomeraciones de gas conocidas como EGG, siglas en inglés de Glóbulos Gaseosos en Evaporación. Pero el polvo presente en la región impedía al Hubble ver lo que ocurría, y comprobar que efectivamente los pilares albergan estrellas en formación.</br></br>
 
-        <br><br>Las nuevas imagines obtenidas ahora por el telescopio espacial Herschel, de la ESA, muestran en toda su amplitud los pilares y el gas y el polvo que los rodea. Las observaciones de Herschel, en longitudes de onda del infrarrojo lejano, permiten a los astrónomos ver el interior de las estructuras.<br><br>
+        <br><br>Las nuevas imagines obtenidas ahora por el telescopio espacial Herschel, de la ESA, muestran en toda su amplitud los pilares y el gas y el polvo que los rodea. Las observaciones de Herschel, en longitudes de onda del infrarrojo lejano, permiten a los astrónomos ver el interior de las estructuras.</br></br>
 
-        <br><br>En paralelo, nuevas observaciones en rayos X obtenidas con el telescopio XMM-Newton, de la ESA, revelan la presencia de las jóvenes estrellas calientes responsables de esculpir los pilares.<br><br>
-    ]]>
+        <br><br>En paralelo, nuevas observaciones en rayos X obtenidas con el telescopio XMM-Newton, de la ESA, revelan la presencia de las jóvenes estrellas calientes responsables de esculpir los pilares.</br></br>
+]]>
     </string>
 
 
@@ -426,7 +426,7 @@
     <string name="nebulosa_caballo_titulo">Cabeza de Caballo</string>
     <string name="nebulosa_caballo_desc">
         <![CDATA[
-            <br><br>Una de las nebulosas más identificables en el cielo, la Nebulosa de la Cabeza de Caballo en Orión, es parte de una gran y oscura nube molecular. También conocida como Barnard 33, la forma inusual fue descubierta por primera vez en una placa fotográfica a finales de 1800. El resplandor rojo se origina del gas de hidrógeno predominantemente detrás de la nebulosa, ionizado por la estrella brillante cercana Sigma Orionis. La oscuridad de la Cabeza de Caballo es causada principalmente por un denso polvo, aunque la parte inferior del cuello de la Cabeza de Caballo proyecta una sombra hacia la izquierda. Corrientes de gas que salen de la nebulosa son canalizadas por un fuerte campo magnético. Los puntos brillantes en la base de la Nebulosa de la Cabeza de Caballo son estrellas jóvenes que están en el proceso de formarse. La luz tarda aproximadamente 1,500 años en llegar hasta nosotros desde la Nebulosa de la Cabeza de Caballo<br><br>
+            <br><br>Una de las nebulosas más identificables en el cielo, la Nebulosa de la Cabeza de Caballo en Orión, es parte de una gran y oscura nube molecular. También conocida como Barnard 33, la forma inusual fue descubierta por primera vez en una placa fotográfica a finales de 1800. El resplandor rojo se origina del gas de hidrógeno predominantemente detrás de la nebulosa, ionizado por la estrella brillante cercana Sigma Orionis. La oscuridad de la Cabeza de Caballo es causada principalmente por un denso polvo, aunque la parte inferior del cuello de la Cabeza de Caballo proyecta una sombra hacia la izquierda. Corrientes de gas que salen de la nebulosa son canalizadas por un fuerte campo magnético. Los puntos brillantes en la base de la Nebulosa de la Cabeza de Caballo son estrellas jóvenes que están en el proceso de formarse. La luz tarda aproximadamente 1,500 años en llegar hasta nosotros desde la Nebulosa de la Cabeza de Caballo</br></br>
         ]]>
     </string>
 
@@ -435,11 +435,11 @@
     <string name="nebulosa_ojo_titulo">Ojo de Dios</string>
     <string name="nebulosa_ojo_desc">
         <![CDATA[
-            <br>La nebulosa de la Hélice, nebulosa Helix, NGC 7293 o nebulosa del ojo de Dios es una nebulosa planetaria en la constelación de Acuario, a unos 680 años luz de distancia. Es una de las nebulosas planetarias más próximas a la Tierra y fue descubierta por Karl Ludwig Harding antes de 1824. Su aspecto es muy similar a la nebulosa del Anillo (M57) y sus características físicas son parecidas a las de la nebulosa Dumbbell (M27).<br><br>
+            <br>La nebulosa de la Hélice, nebulosa Helix, NGC 7293 o nebulosa del ojo de Dios es una nebulosa planetaria en la constelación de Acuario, a unos 680 años luz de distancia. Es una de las nebulosas planetarias más próximas a la Tierra y fue descubierta por Karl Ludwig Harding antes de 1824. Su aspecto es muy similar a la nebulosa del Anillo (M57) y sus características físicas son parecidas a las de la nebulosa Dumbbell (M27).</br></br>
 
-            <br><br>Esta nebulosa es un ejemplo de nebulosa planetaria formada por una estrella similar al Sol en los últimos estados de su vida. Los gases expulsados por la estrella aparecen desde nuestra perspectiva como si viéramos una hélice desde arriba, de donde proviene su nombre. La estrella remanente es una enana blanca. La edad de la nebulosa, basada en su ritmo de expansión, se estima en unos 10 600 años aproximadamente.<br><br>
+            <br><br>Esta nebulosa es un ejemplo de nebulosa planetaria formada por una estrella similar al Sol en los últimos estados de su vida. Los gases expulsados por la estrella aparecen desde nuestra perspectiva como si viéramos una hélice desde arriba, de donde proviene su nombre. La estrella remanente es una enana blanca. La edad de la nebulosa, basada en su ritmo de expansión, se estima en unos 10 600 años aproximadamente.</br></br>
 
-            <br><br>A pesar de su gran tamaño aparente, es un objeto difícil de ver debido a su difusión, requiriendo cielos oscuros y el uso de instrumentos lo más luminosos posible, como unos prismáticos o un telescopio funcionando a bajos aumentos. Un filtro nebular acoplado al ocular del telescopio puede ayudar bastante a su observación.<br><br>
+            <br><br>A pesar de su gran tamaño aparente, es un objeto difícil de ver debido a su difusión, requiriendo cielos oscuros y el uso de instrumentos lo más luminosos posible, como unos prismáticos o un telescopio funcionando a bajos aumentos. Un filtro nebular acoplado al ocular del telescopio puede ayudar bastante a su observación.</br></br>
         ]]>
     </string>
 
@@ -449,15 +449,15 @@
 
     <string name="nebulosa_anillo_desc">
         <![CDATA[
-        <br>Messier 57, más conocida como la Nebulosa del Anillo, se encuentra a unos 2000 años luz de distancia en la constelación de Lyra. Descubierta por el astrónomo francés Antoine Darquier de Pellepoix en 1779, la Nebulosa del Anillo tiene una magnitud aparente de 8,8. Es fácil de localizar, ya que se sitúa aproximadamente a medio camino entre las dos estrellas de tercera magnitud «Sheliak» y «Sulafat», que forman la parte inferior de la lira de Lyra. Sin embargo, se requiere un telescopio de tamaño moderado para apreciar sus hermosos detalles en forma de anillo.<br>
+        <br>Messier 57, más conocida como la Nebulosa del Anillo, se encuentra a unos 2000 años luz de distancia en la constelación de Lyra. Descubierta por el astrónomo francés Antoine Darquier de Pellepoix en 1779, la Nebulosa del Anillo tiene una magnitud aparente de 8,8. Es fácil de localizar, ya que se sitúa aproximadamente a medio camino entre las dos estrellas de tercera magnitud «Sheliak» y «Sulafat», que forman la parte inferior de la lira de Lyra. Sin embargo, se requiere un telescopio de tamaño moderado para apreciar sus hermosos detalles en forma de anillo.</br>
 
-        <br><br>M57 está inclinada hacia la Tierra, lo que nos permite ver su anillo de frente.<br><br>
+        <br><br>M57 está inclinada hacia la Tierra, lo que nos permite ver su anillo de frente.</br></br>
 
-        <br><br>En su centro puede observarse una estrella, es una enana blanca, lo que queda de la estrella original. Dentro de unos 5000 millones de años, el Sol pasará por esta fase.<br><br>
+        <br><br>En su centro puede observarse una estrella, es una enana blanca, lo que queda de la estrella original. Dentro de unos 5000 millones de años, el Sol pasará por esta fase.</br></br>
 
-        <br><br>La nebulosa del Anillo fue descubierta en 1779 por el astrónomo francés Antoine Darquier de Pellepoix y poco después Charles Messier la incluyó en su catálogo con el número 57.<br><br>
+        <br><br>La nebulosa del Anillo fue descubierta en 1779 por el astrónomo francés Antoine Darquier de Pellepoix y poco después Charles Messier la incluyó en su catálogo con el número 57.</br></br>
 
-        <br><br>M57 tiene un tamaño de aproximadamente un año luz de diámetro, pero desde la Tierra su tamaño aparente es muy pequeño (3 x 2 minutos de arco), lo que hace que se requieran ciertos aumentos para poder ver su estructura. La siguiente fotografía es la original del recorte que abre este artículo y en ella podemos ver su pequeño tamaño aparente.<br><br>
+        <br><br>M57 tiene un tamaño de aproximadamente un año luz de diámetro, pero desde la Tierra su tamaño aparente es muy pequeño (3 x 2 minutos de arco), lo que hace que se requieran ciertos aumentos para poder ver su estructura. La siguiente fotografía es la original del recorte que abre este artículo y en ella podemos ver su pequeño tamaño aparente.</br></br>
         ]]>
     </string>
 
@@ -469,41 +469,41 @@
     <string name="agujero_ton618_titulo">TON 618</string>
     <string name="agujero_ton618_desc">
         <![CDATA[
-            <br>TON 618 es un agujero negro ultramasivo cuya masa equivale a la de 66.000 millones de soles. Está a 18.000 millones de años luz de distancia, pero el disco de acreción que gira a su alrededor brilla con tanta fuerza (tanto como cien billones de estrellas) que podemos verlo desde la Tierra. Hay una galaxia entera a su alrededor, pero el brillo de TON 618 es demasiado grande como para poder verla.<br>
+            <br>TON 618 es un agujero negro ultramasivo cuya masa equivale a la de 66.000 millones de soles. Está a 18.000 millones de años luz de distancia, pero el disco de acreción que gira a su alrededor brilla con tanta fuerza (tanto como cien billones de estrellas) que podemos verlo desde la Tierra. Hay una galaxia entera a su alrededor, pero el brillo de TON 618 es demasiado grande como para poder verla.</br>
 
-            <br><br>Por lo tanto, estamos viendo una versión de TON 618 de hace 10.000 millones de años. Y teniendo en cuenta que hablamos de un agujero negro, hoy TON 618 puede ser mucho, mucho más grande de lo que estamos viendo en nuestro firmamento.<br><br>
+            <br><br>Por lo tanto, estamos viendo una versión de TON 618 de hace 10.000 millones de años. Y teniendo en cuenta que hablamos de un agujero negro, hoy TON 618 puede ser mucho, mucho más grande de lo que estamos viendo en nuestro firmamento.</br></br>
 
-            <br><br>Pero incluso las mediciones del TON 618 del pasado remoto son impresionantes. El radio del agujero negro propiamente dicho a partir de su horizonte de sucesos es de 207.000 millones de kilometros. Es tan grande que podríamos colocar once sistemas solares como el nuestro, uno al lado de otro, dentro de él.<br><br>
+            <br><br>Pero incluso las mediciones del TON 618 del pasado remoto son impresionantes. El radio del agujero negro propiamente dicho a partir de su horizonte de sucesos es de 207.000 millones de kilometros. Es tan grande que podríamos colocar once sistemas solares como el nuestro, uno al lado de otro, dentro de él.</br></br>
 
-            <br><br>Todos estos datos también nos permiten saber que TON 618 se formó cuando el universo era muy joven, "sólo" 3.400 millones de años después del Big Bang. Desde entonces lleva absorbiendo materia atrapándola en su campo gravitatorio, y no va a dejar de hacerlo hasta que literalmente no quede nada por absorber.<br><br>
+            <br><br>Todos estos datos también nos permiten saber que TON 618 se formó cuando el universo era muy joven, "sólo" 3.400 millones de años después del Big Bang. Desde entonces lleva absorbiendo materia atrapándola en su campo gravitatorio, y no va a dejar de hacerlo hasta que literalmente no quede nada por absorber.</br></br>
         ]]>
     </string>
 
     <string name="agujero_m87_titulo">M87*</string>
     <string name="agujero_m87_desc">
         <![CDATA[
-            <br>El hoyo negro supermasivo M87*, el más estudiado desde la Tierra y ubicado dentro de la galaxia M87, a unos 55 millones de años luz de nuestro planeta, posee en su vecindad luz que gira en espiral, al escapar de la intensa gravedad que éste tiene.<br>
+            <br>El hoyo negro supermasivo M87*, el más estudiado desde la Tierra y ubicado dentro de la galaxia M87, a unos 55 millones de años luz de nuestro planeta, posee en su vecindad luz que gira en espiral, al escapar de la intensa gravedad que éste tiene.</br>
 
-            <br><br>El Event Horizon Telescope (EHT), un conjunto a escala planetaria de ocho radiotelescopios terrestres forjados a través de la colaboración internacional, fue diseñado para capturar imágenes de un agujero negro. En conferencias de prensa coordinadas en todo el mundo, los investigadores de EHT revelaron que tuvieron éxito, revelando la primera evidencia visual directa del agujero negro supermasivo en el centro de Messier 87 y su sombra.<br><br>
+            <br><br>El Event Horizon Telescope (EHT), un conjunto a escala planetaria de ocho radiotelescopios terrestres forjados a través de la colaboración internacional, fue diseñado para capturar imágenes de un agujero negro. En conferencias de prensa coordinadas en todo el mundo, los investigadores de EHT revelaron que tuvieron éxito, revelando la primera evidencia visual directa del agujero negro supermasivo en el centro de Messier 87 y su sombra.</br></br>
         ]]>
     </string>
 
     <string name="agujero_sagitario_titulo">Sagitario A</string>
     <string name="agujero_sagitario_desc">
         <![CDATA[
-            <br>Sagitario A*, el agujero negro supermasivo en el centro de la Vía Láctea, es mucho menos luminoso que otros agujeros negros en el centro de las galaxias que podemos observar, lo que significa que el agujero negro central de nuestra galaxia no ha estado devorando activamente material a su alrededor.<br>
+            <br>Sagitario A*, el agujero negro supermasivo en el centro de la Vía Láctea, es mucho menos luminoso que otros agujeros negros en el centro de las galaxias que podemos observar, lo que significa que el agujero negro central de nuestra galaxia no ha estado devorando activamente material a su alrededor.</br>
 
-            <br><br>Sagitario A* se encuentra a más de 25.000 años luz de la Tierra y es nuestro agujero negro supermasivo más cercano, con una masa estimada de millones de veces la de nuestro Sol. El agujero negro de Sagitario A (o Sgr A* por las siglas que suelen emplear los investigadores y que se pronuncia “Sagitario A asterisco”), se encuentra en la constelación de Sagitario en el corazón de la Vía Láctea.<br><br>
+            <br><br>Sagitario A* se encuentra a más de 25.000 años luz de la Tierra y es nuestro agujero negro supermasivo más cercano, con una masa estimada de millones de veces la de nuestro Sol. El agujero negro de Sagitario A (o Sgr A* por las siglas que suelen emplear los investigadores y que se pronuncia “Sagitario A asterisco”), se encuentra en la constelación de Sagitario en el corazón de la Vía Láctea.</br></br>
 
-            <br><br>Los científicos recurrieron a IXPE para tener una observación más cercana cuando las investigaciones previas de rayos X detectaron emisiones en rayos X relativamente recientes de gigantescas nubes de gases en sus alrededores. Dado que la mayoría de las nubes cósmicas, conocidas como “nubes moleculares”, son frías y oscuras, las señales de rayos X de estas nubes deberían haber sido débiles. En cambio, brillaban con intensidad.<br><br>
+            <br><br>Los científicos recurrieron a IXPE para tener una observación más cercana cuando las investigaciones previas de rayos X detectaron emisiones en rayos X relativamente recientes de gigantescas nubes de gases en sus alrededores. Dado que la mayoría de las nubes cósmicas, conocidas como “nubes moleculares”, son frías y oscuras, las señales de rayos X de estas nubes deberían haber sido débiles. En cambio, brillaban con intensidad.</br></br>
         ]]>
     </string>
 
     <string name="agujero_unicornio_titulo">Unicornio</string>
     <string name="agujero_unicornio_desc">
         <![CDATA[
-            <br>El "agujero negro unicornio" es un agujero negro de masa estelar ubicado en la constelación de Monoceros (Unicornio), a unos 1.500 años luz de la Tierra. Fue apodado así por su ubicación y es uno de los agujeros negros más pequeños detectados hasta ahora, con una masa de alrededor de tres veces la de nuestro Sol. Fue descubierto al observar cómo su gravedad afectaba a una estrella gigante roja compañera, deformando su forma y alterando su luz.<br>
-            <br><br>El agugero negro "Unicornio" es uno de los más pequeños y cercanos a la Tierra, ubicado a unos 1.500 años luz de distancia en la constelación de Monoceros (Unicornio). Fue descubierto indirectamente al observar su influencia gravitatoria en una estrella gigante roja compañera. Con una masa de aproximadamente tres veces la del Sol, es uno de los agujeros negros más pequeños registrados y único hasta ahora, de ahí su nombre. <br><br>
+            <br>El "agujero negro unicornio" es un agujero negro de masa estelar ubicado en la constelación de Monoceros (Unicornio), a unos 1.500 años luz de la Tierra. Fue apodado así por su ubicación y es uno de los agujeros negros más pequeños detectados hasta ahora, con una masa de alrededor de tres veces la de nuestro Sol. Fue descubierto al observar cómo su gravedad afectaba a una estrella gigante roja compañera, deformando su forma y alterando su luz.</br>
+            <br><br>El agugero negro "Unicornio" es uno de los más pequeños y cercanos a la Tierra, ubicado a unos 1.500 años luz de distancia en la constelación de Monoceros (Unicornio). Fue descubierto indirectamente al observar su influencia gravitatoria en una estrella gigante roja compañera. Con una masa de aproximadamente tres veces la del Sol, es uno de los agujeros negros más pequeños registrados y único hasta ahora, de ahí su nombre. </br></br>
         ]]>
     </string>
 
@@ -512,8 +512,8 @@
     <string name="agujero_gaia_titulo">Gaia BH1</string>
     <string name="agujero_gaia_desc">
     <![CDATA[
-        <br>Gaia BH1 es el agujero negro más cercano a la Tierra, situado a aproximadamente 1.560 años luz de distancia en la constelación de Ofiuco. Es un agujero negro inactivo de masa estelar, unas 10 veces más masivo que el Sol, y forma un sistema binario con una estrella similar a nuestro Sol.<br>
-        <br><br>El agujero negro más cercano a la Tierra se ha descubierto a tan solo 1600 años luz de distancia, aproximadamente tres veces más cerca que el candidato anterior, un sistema binario de rayos X en la constelación de Monoceros. El agujero negro vecino, denominado Gaia BH1, es un agujero negro latente de 10 masas solares ubicado en la constelación de Ofiuco, lo que lo convierte en la primera detección precisa de un agujero negro latente de masa estelar en nuestra galaxia.<br><br>
+        <br>Gaia BH1 es el agujero negro más cercano a la Tierra, situado a aproximadamente 1.560 años luz de distancia en la constelación de Ofiuco. Es un agujero negro inactivo de masa estelar, unas 10 veces más masivo que el Sol, y forma un sistema binario con una estrella similar a nuestro Sol.</br>
+        <br><br>El agujero negro más cercano a la Tierra se ha descubierto a tan solo 1600 años luz de distancia, aproximadamente tres veces más cerca que el candidato anterior, un sistema binario de rayos X en la constelación de Monoceros. El agujero negro vecino, denominado Gaia BH1, es un agujero negro latente de 10 masas solares ubicado en la constelación de Ofiuco, lo que lo convierte en la primera detección precisa de un agujero negro latente de masa estelar en nuestra galaxia.</br></br>
     ]]>
 
 </string>
@@ -526,9 +526,9 @@
     <string name="constelacion_orion_titulo">Orion</string>
     <string name="constelacion_orion_desc">
         <![CDATA[
-            <br>Orión es una de las constelaciones más conocidas y visibles del cielo nocturno, nombrada por un cazador de la mitología griega. Su rasgo más distintivo es su cinturón, formado por tres estrellas brillantes alineadas llamadas Alnitak, Alnilam y Mintaka, que también son conocidas popularmente como "Las Tres Marías" o "Los tres Reyes Magos". Se puede ver desde casi todo el mundo y es prominente en invierno en el hemisferio norte y en verano en el hemisferio sur.<br>
+            <br>Orión es una de las constelaciones más conocidas y visibles del cielo nocturno, nombrada por un cazador de la mitología griega. Su rasgo más distintivo es su cinturón, formado por tres estrellas brillantes alineadas llamadas Alnitak, Alnilam y Mintaka, que también son conocidas popularmente como "Las Tres Marías" o "Los tres Reyes Magos". Se puede ver desde casi todo el mundo y es prominente en invierno en el hemisferio norte y en verano en el hemisferio sur.</br>
 
-            <br><br>La constelación de Orión es quizás la más bella para los aficionados. Está formada por un gran cuadrilátero de estrellas, hermoso y sorprendente de la región Ecuatorial del espacio. Las estrellas más brillantes –Alpha (Betelgeu­se), Gamma (Bellatrix), Beta (Rigel) y Kappa Orionis– dibujan los hombros y las piernas del cazador. Tanto Betelgeuse como Rigel son estrellas de prime­ra magnitud y supergigantes, la primera es roja y la segunda, azul.<br><br>
+            <br><br>La constelación de Orión es quizás la más bella para los aficionados. Está formada por un gran cuadrilátero de estrellas, hermoso y sorprendente de la región Ecuatorial del espacio. Las estrellas más brillantes –Alpha (Betelgeu­se), Gamma (Bellatrix), Beta (Rigel) y Kappa Orionis– dibujan los hombros y las piernas del cazador. Tanto Betelgeuse como Rigel son estrellas de prime­ra magnitud y supergigantes, la primera es roja y la segunda, azul.</br></br>
             <br><br>El objeto más espectacular de Orión lo constituye la gran nebulosa de Orión. Se trata de una nebulosa brillante situada a unos 1500 años luz de distancia en la superficie de una nube oscura de grandes dimensiones.
         ]]>
     </string>"
@@ -536,8 +536,8 @@
     <string name="constelacion_osa_titulo">Osa Mayor</string>
     <string name="constelacion_osa_desc">
         <![CDATA[
-            <br>La Osa Mayor es una de las constelaciones más reconocidas y visibles durante todo el año en el hemisferio norte. También conocida como “el Carro” o “el Cazo”, se compone de siete estrellas principales que forman una figura distintiva en el cielo nocturno. Esta constelación es útil como referencia para localizar otras constelaciones y estrellas. Además, es la tercera constelación más grande y tiene un papel importante en la mitología y la navegación.<br><br>
-            <br><br>La Osa Mayor, conocida en latín como Ursa Major, significa “Gran Oso”. Es una de las constelaciones más representativas del cielo boreal y se puede observar durante todo el año en el hemisferio norte. Esta constelación ha tenido un papel significativo en diversas culturas, siendo utilizada como referencia para la navegación y la localización de otras constelaciones. Además, su forma distintiva ha inspirado mitos y leyendas a lo largo de la historia.<br><br>
+            <br>La Osa Mayor es una de las constelaciones más reconocidas y visibles durante todo el año en el hemisferio norte. También conocida como “el Carro” o “el Cazo”, se compone de siete estrellas principales que forman una figura distintiva en el cielo nocturno. Esta constelación es útil como referencia para localizar otras constelaciones y estrellas. Además, es la tercera constelación más grande y tiene un papel importante en la mitología y la navegación.</br></br>
+            <br><br>La Osa Mayor, conocida en latín como Ursa Major, significa “Gran Oso”. Es una de las constelaciones más representativas del cielo boreal y se puede observar durante todo el año en el hemisferio norte. Esta constelación ha tenido un papel significativo en diversas culturas, siendo utilizada como referencia para la navegación y la localización de otras constelaciones. Además, su forma distintiva ha inspirado mitos y leyendas a lo largo de la historia.</br></br>
         ]]>
     </string>
 
@@ -546,20 +546,20 @@
     <string name="constelacion_casiopea_titulo">Casiopea</string>
     <string name="constelacion_casiopea_desc">
         <![CDATA[
-            <br>La constelación a menudo conocida como la W celeste representa a la vanidosa reina Casiopea sobre su trono.<br>
+            <br>La constelación a menudo conocida como la W celeste representa a la vanidosa reina Casiopea sobre su trono.</br>
 
-            <br><br>Dada la disposición de cinco estrellas brillantes, la constelación de Casiopea suele designarse simplemente como la W del cielo. Sus concepciones pictóricas representaban desde las astas de un alce, hasta un grupo de cinco ciervos o la corte de la diosa celta Dôn. Para los astrónomos árabes formaba parte de un camello. De hecho, el nombre árabe de la estrella β Cas se traduce literalmente como "la joroba del camello".<br><br>
+            <br><br>Dada la disposición de cinco estrellas brillantes, la constelación de Casiopea suele designarse simplemente como la W del cielo. Sus concepciones pictóricas representaban desde las astas de un alce, hasta un grupo de cinco ciervos o la corte de la diosa celta Dôn. Para los astrónomos árabes formaba parte de un camello. De hecho, el nombre árabe de la estrella β Cas se traduce literalmente como "la joroba del camello".</br></br>
 
-            <br><br>Sin embargo, el más conocido es el mito de Casiopea, esposa del rey Cefeo, que desató la ira de los dioses. La reina presumía de su belleza y afirmaba ser mucho más hermosa que las ninfas marinas, así que como castigo tuvo que sacrificar a su hija Andrómeda a un monstruo marino. Sin embargo, el valeroso Perseo logró evitarlo.<br><br>
+            <br><br>Sin embargo, el más conocido es el mito de Casiopea, esposa del rey Cefeo, que desató la ira de los dioses. La reina presumía de su belleza y afirmaba ser mucho más hermosa que las ninfas marinas, así que como castigo tuvo que sacrificar a su hija Andrómeda a un monstruo marino. Sin embargo, el valeroso Perseo logró evitarlo.</br></br>
         ]]>
     </string>
 
     <string name="constelacion_cruz_titulo">Cruz del Sur</string>
     <string name="constelacion_cruz_desc">
         <![CDATA[
-            <br>La Cruz del Sur es un asterismo formado por las estrellas más visibles de la constelación de la Cruz del Sur.<br><br>
-            <br><br>El icónico grupo de estrellas es visible principalmente desde el hemisferio sur . Debido a su orientación en el cielo nocturno , la Cruz del Sur ha servido históricamente como una guía de navegación esencial: dos de sus estrellas principales forman una línea que apunta al Polo Sur. La Cruz del Sur también figura en las banderas de varios países del hemisferio sur.<br><br>
-            <br><br>La Cruz del Sur es la más pequeña de las 88 constelaciones oficiales definidas por la Unión Astronómica Internacional (UAI) . La Cruz del Sur no es toda la región del cielo que conforma la constelación, sino solo las cuatro (o cinco) estrellas que forman su icónica cruz: por eso es un asterismo.<br><br>
+            <br>La Cruz del Sur es un asterismo formado por las estrellas más visibles de la constelación de la Cruz del Sur.</br></br>
+            <br><br>El icónico grupo de estrellas es visible principalmente desde el hemisferio sur . Debido a su orientación en el cielo nocturno , la Cruz del Sur ha servido históricamente como una guía de navegación esencial: dos de sus estrellas principales forman una línea que apunta al Polo Sur. La Cruz del Sur también figura en las banderas de varios países del hemisferio sur.</br></br>
+            <br><br>La Cruz del Sur es la más pequeña de las 88 constelaciones oficiales definidas por la Unión Astronómica Internacional (UAI) . La Cruz del Sur no es toda la región del cielo que conforma la constelación, sino solo las cuatro (o cinco) estrellas que forman su icónica cruz: por eso es un asterismo.</br></br>
         ]]>
     </string>
 
@@ -568,7 +568,7 @@
         <![CDATA[
             <br><br>Esta prominente constelación estival incluye a Albireo, la estrella binaria más bella, y grandes y desafiantes nebulosas.</br></br>
             <br><br>Los antiguos griegos veían un grácil cisne celeste en la inequívoca forma de cruz.</br></br>
-            <br><br>El Cisne es una de las constelaciones más visibles del verano. Aunque, como ocurre casi siempre, no es fácil identificar a primera vista la figura que da nombre a la constelación, en este caso uno se imagina inmediatamente un cisne volando con las alas desplegadas. Su forma de cruz grande, razón por la que a veces se la llama la Cruz del Norte, como contraparte de la conocida constelación del cielo austral, facilita la visualización de la figura del animal. El eje vertical de la cruz representa el cuerpo alargado del cisne. Deneb marca la cola (α Cyg), Sadr (γ Cyg) el pecho y Albireo (β Cyg), al final del largo cuello, la cabeza. Estrellas igualmente brillantes representan las anchas alas del animal en el eje horizontal. <br><br>
+            <br><br>El Cisne es una de las constelaciones más visibles del verano. Aunque, como ocurre casi siempre, no es fácil identificar a primera vista la figura que da nombre a la constelación, en este caso uno se imagina inmediatamente un cisne volando con las alas desplegadas. Su forma de cruz grande, razón por la que a veces se la llama la Cruz del Norte, como contraparte de la conocida constelación del cielo austral, facilita la visualización de la figura del animal. El eje vertical de la cruz representa el cuerpo alargado del cisne. Deneb marca la cola (α Cyg), Sadr (γ Cyg) el pecho y Albireo (β Cyg), al final del largo cuello, la cabeza. Estrellas igualmente brillantes representan las anchas alas del animal en el eje horizontal. </br></br>
         ]]>
     </string>
 
@@ -579,74 +579,74 @@
     <string name="galaxia_viaLactea_titulo">Vía Láctea</string>
     <string name="galaxia_viaLactea_desc">
         <![CDATA[
-            <br>La Vía Láctea es la galaxia de la cual forma parte el sistema solar, es decir, el lugar en el universo en donde se encuentra el planeta Tierra.<br>
+            <br>La Vía Láctea es la galaxia de la cual forma parte el sistema solar, es decir, el lugar en el universo en donde se encuentra el planeta Tierra.</br>
             Consiste en una gigantesca agrupación de estrellas, planetas y nubes de gas con forma de espiral y un diámetro medio de alrededor de 200.000 años luz. En su centro, habita un agujero negro súper masivo, cuya fuerza gravitacional mantiene los cúmulos estelares en una órbita estable.
 
-            <br><br>El Sol es apenas una de los cientos de miles de millones de estrellas que conforman la Vía Láctea. Estas se encuentran, en su mayoría, dispersas de manera individual, pero existen también acumulaciones importantes de estrellas conocidas como “cúmulos globulares”, algunas de las cuales superan hasta en cincuenta veces el brillo del Sol.<br><br>
+            <br><br>El Sol es apenas una de los cientos de miles de millones de estrellas que conforman la Vía Láctea. Estas se encuentran, en su mayoría, dispersas de manera individual, pero existen también acumulaciones importantes de estrellas conocidas como “cúmulos globulares”, algunas de las cuales superan hasta en cincuenta veces el brillo del Sol.</br></br>
 
-            <br><br>En una noche despejada, es posible percibir la Vía Láctea a simple vista como una luz blanca borrosa que se extiende alrededor del cielo nocturno. Esto se debe a que el sistema solar se encuentra en una región apartada del centro, aproximadamente a 26.600 años luz, en uno de los brazos de la espiral.<br><br>
+            <br><br>En una noche despejada, es posible percibir la Vía Láctea a simple vista como una luz blanca borrosa que se extiende alrededor del cielo nocturno. Esto se debe a que el sistema solar se encuentra en una región apartada del centro, aproximadamente a 26.600 años luz, en uno de los brazos de la espiral.</br></br>
 
-            <br><br>La naturaleza de la Vía Láctea sigue albergando numerosos misterios para los astrónomos y astrofísicos, en parte por su inmensidad y en parte porque una densa capa de polvo espacial oscurece la observación directa del centro galáctico. Por esta razón, solo es posible estudiar su centro a través de telescopios de ondas de radio y telescopios infrarrojos.<br><br>
+            <br><br>La naturaleza de la Vía Láctea sigue albergando numerosos misterios para los astrónomos y astrofísicos, en parte por su inmensidad y en parte porque una densa capa de polvo espacial oscurece la observación directa del centro galáctico. Por esta razón, solo es posible estudiar su centro a través de telescopios de ondas de radio y telescopios infrarrojos.</br></br>
 
-            <b><br><br>Forma y tamaño </b><br><br>
-            <br>Tiene forma de espiral barrada, de aproximadamente 200.000 años luz de largo (las primeras mediciones, en 1917, le atribuían la mitad) y mil años luz de grosor.<br>
+            <b><br><br>Forma y tamaño </b></br></br>
+            <br>Tiene forma de espiral barrada, de aproximadamente 200.000 años luz de largo (las primeras mediciones, en 1917, le atribuían la mitad) y mil años luz de grosor.</br>
 
-            <b><br><br>Componentes</b><br><br>
-            </br>Está conformada por entre 100.000 y 400.000 millones de estrellas. La más antigua tiene alrededor de 13.000 millones de años.<br>
+            <b><br><br>Componentes</b></br></br>
+            </br>Está conformada por entre 100.000 y 400.000 millones de estrellas. La más antigua tiene alrededor de 13.000 millones de años.</br>
 
-            <b><br><br>Sistema solar</b><br><br>
-            <br>El sistema solar tarda 225 millones de años en dar una vuelta alrededor de la galaxia. Desde su formación, ha completado dieciocho vueltas, de modo que la Tierra tiene apenas 18 años galácticos de existencia.<br>
+            <b><br><br>Sistema solar</b></br></br>
+            <br>El sistema solar tarda 225 millones de años en dar una vuelta alrededor de la galaxia. Desde su formación, ha completado dieciocho vueltas, de modo que la Tierra tiene apenas 18 años galácticos de existencia.</br>
 
-            <b><br><br>Agujero negro</b><br><br>
-            <br>En el corazón de la galaxia, hay un agujero negro súper masivo conocido como Sagitario A, cuya masa equivale a 4 millones de veces la del Sol. Fue observado directamente por primera vez en 2022.<br>
+            <b><br><br>Agujero negro</b></br></br>
+            <br>En el corazón de la galaxia, hay un agujero negro súper masivo conocido como Sagitario A, cuya masa equivale a 4 millones de veces la del Sol. Fue observado directamente por primera vez en 2022.</br>
 
-            <b><br><br>Estrellas</b><br><br>
-            <br>Todas las estrellas que se pueden observar a simple vista en la noche pertenecen a la Vía Láctea.<br>
+            <b><br><br>Estrellas</b></br></br>
+            <br>Todas las estrellas que se pueden observar a simple vista en la noche pertenecen a la Vía Láctea.</br>
 
-            <b><br><br>Origen del nombre</b><br><br>
-            <br>El nombre de la galaxia proviene de la mitología romana y significa “camino de leche”.<br>
+            <b><br><br>Origen del nombre</b></br></br>
+            <br>El nombre de la galaxia proviene de la mitología romana y significa “camino de leche”.</br>
 
-            <b><br><br>Pronóstico de fusión</b><br><br>
-            <br>Se estima que en unos 4.000 millones de años, la Vía Láctea y la Galaxia de Andrómeda, su vecina más cercana en el Grupo Local, acabarán fusionándose en una única y masiva galaxia.<br>
+            <b><br><br>Pronóstico de fusión</b></br></br>
+            <br>Se estima que en unos 4.000 millones de años, la Vía Láctea y la Galaxia de Andrómeda, su vecina más cercana en el Grupo Local, acabarán fusionándose en una única y masiva galaxia.</br>
         ]]>
     </string>
 
     <string name="galaxia_sombrero_titulo">Sombrero</string>
     <string name="galaxia_sombrero_desc">
         <![CDATA[
-            <br>Una de las más famosas galaxias espirales es Messier 104, ampliamente conocida como el “Sombrero” debido a su particular forma de sombrero mexicano. Está ubicada hacia la constelación de Virgo, a una distancia de unos 30 millones de años luz y es el objeto número 104 en el famoso catálogo de objetos del cielo profundo del astrónomo francés Charles Messier (1730–1817).<br>
+            <br>Una de las más famosas galaxias espirales es Messier 104, ampliamente conocida como el “Sombrero” debido a su particular forma de sombrero mexicano. Está ubicada hacia la constelación de Virgo, a una distancia de unos 30 millones de años luz y es el objeto número 104 en el famoso catálogo de objetos del cielo profundo del astrónomo francés Charles Messier (1730–1817).</br>
 
-            <br>Esta galaxia luminosa y masiva tiene una masa total de unos 800 mil millones de soles, y es notable por su bulbo nuclear, compuesto principalmente por estrellas maduras, y su disco –que se aprecia casi de canto– compuesto por estrellas, gas y polvo.<br>
-            <br>La complejidad de este polvo es evidente justo al frente del brillante núcleo, pero también lo es en los oscuros senderos absorbentes a través del disco. Se puede apreciar un gran número de objetos pequeños y difusos como un enjambre en el halo de Messier 104. La mayoría de ellos son cúmulos globulares, similares a los encontrados en nuestra propia Vía Láctea, pero Messier 104 tiene una cantidad mucho mayor.<br>
-            <br>Esta galaxia también parece albergar un agujero negro súper masivo de alrededor de mil millones de masas solares, uno de los agujeros negros más masivos medidos en una galaxia cercana, y 250 veces más grande que el agujero negro en la Vía Láctea. A pesar de tener un agujero negro tan masivo en su centro, la galaxia es bastante tranquila, lo que implicaría que el agujero negro está en una dieta muy rigurosa.<br>
+            <br>Esta galaxia luminosa y masiva tiene una masa total de unos 800 mil millones de soles, y es notable por su bulbo nuclear, compuesto principalmente por estrellas maduras, y su disco –que se aprecia casi de canto– compuesto por estrellas, gas y polvo.</br>
+            <br>La complejidad de este polvo es evidente justo al frente del brillante núcleo, pero también lo es en los oscuros senderos absorbentes a través del disco. Se puede apreciar un gran número de objetos pequeños y difusos como un enjambre en el halo de Messier 104. La mayoría de ellos son cúmulos globulares, similares a los encontrados en nuestra propia Vía Láctea, pero Messier 104 tiene una cantidad mucho mayor.</br>
+            <br>Esta galaxia también parece albergar un agujero negro súper masivo de alrededor de mil millones de masas solares, uno de los agujeros negros más masivos medidos en una galaxia cercana, y 250 veces más grande que el agujero negro en la Vía Láctea. A pesar de tener un agujero negro tan masivo en su centro, la galaxia es bastante tranquila, lo que implicaría que el agujero negro está en una dieta muy rigurosa.</br>
         ]]>
     </string>
 
     <string name="galaxia_cigarro_titulo">Cigarro</string>
     <string name="galaxia_cigarro_desc">
 <![CDATA[
-    <br>El centro de esta galaxia está formando estrellas 10 veces más rápido que toda nuestra Vía Láctea.<br>
-    <br>M82, o la Galaxia del Cigarro, brilla intensamente en longitudes de onda infrarrojas y destaca por su intensa actividad de formación estelar. La Galaxia del Cigarro experimenta interacciones gravitacionales con su vecina galáctica, M81, lo que provoca una tasa extraordinariamente alta de formación estelar: un brote estelar.<br>
-    <br>Alrededor del centro de la galaxia, nacen estrellas jóvenes diez veces más rápido que en toda nuestra Vía Láctea. La radiación y las partículas energéticas de estas estrellas recién nacidas erosionan el gas circundante, y el viento galáctico resultante comprime suficiente gas para formar millones de estrellas más. La rápida tasa de formación estelar en esta galaxia eventualmente se autolimitará. Cuando la formación estelar se vuelva demasiado intensa, consumirá o destruirá el material necesario para formar más estrellas. El brote estelar disminuirá entonces, probablemente en unas pocas decenas de millones de años.<br>
+    <br>El centro de esta galaxia está formando estrellas 10 veces más rápido que toda nuestra Vía Láctea.</br>
+    <br>M82, o la Galaxia del Cigarro, brilla intensamente en longitudes de onda infrarrojas y destaca por su intensa actividad de formación estelar. La Galaxia del Cigarro experimenta interacciones gravitacionales con su vecina galáctica, M81, lo que provoca una tasa extraordinariamente alta de formación estelar: un brote estelar.</br>
+    <br>Alrededor del centro de la galaxia, nacen estrellas jóvenes diez veces más rápido que en toda nuestra Vía Láctea. La radiación y las partículas energéticas de estas estrellas recién nacidas erosionan el gas circundante, y el viento galáctico resultante comprime suficiente gas para formar millones de estrellas más. La rápida tasa de formación estelar en esta galaxia eventualmente se autolimitará. Cuando la formación estelar se vuelva demasiado intensa, consumirá o destruirá el material necesario para formar más estrellas. El brote estelar disminuirá entonces, probablemente en unas pocas decenas de millones de años.</br>
 ]]>
 </string>
 
     <string name="galaxia_4696_titulo">NGC 4696</string>
     <string name="galaxia_4696_desc">
         <![CDATA[
-            <br>Es una galaxia con una forma muy peculiar por los curiosos filamentos de polvo que tiene. Se ha encontrado que cada uno de los filamentos tiene una anchura de unos 200 años luz, y una densidad unas 10 veces mayor que la del gas circundante.  En el centro de la galaxia se esconde un agujero negro supermasivo activo. Este inunda las regiones interiores de la galaxia con mucha energía, calentando el gas y enviando flujos de material caliente hacia el exterior.<br>
+            <br>Es una galaxia con una forma muy peculiar por los curiosos filamentos de polvo que tiene. Se ha encontrado que cada uno de los filamentos tiene una anchura de unos 200 años luz, y una densidad unas 10 veces mayor que la del gas circundante.  En el centro de la galaxia se esconde un agujero negro supermasivo activo. Este inunda las regiones interiores de la galaxia con mucha energía, calentando el gas y enviando flujos de material caliente hacia el exterior.</br>
 
-            <br>Una mayor comprensión de las galaxias filamentosas nos puede ayudar a entender mejor por qué tantas galaxias masivas cercanas a nosotros en el Universo parecen estas inactivas, en lugar de formar estrellas con sus vastas reservas de gas y polvo, se quedan en silencio, y se llenan en su mayoría con estrellas muy viejas, este es el caso de NGC 4696. Puede ser que la estructura magnética que fluye por toda la galaxia detenga el gas que produce la creación de nuevas estrellas.<br>
+            <br>Una mayor comprensión de las galaxias filamentosas nos puede ayudar a entender mejor por qué tantas galaxias masivas cercanas a nosotros en el Universo parecen estas inactivas, en lugar de formar estrellas con sus vastas reservas de gas y polvo, se quedan en silencio, y se llenan en su mayoría con estrellas muy viejas, este es el caso de NGC 4696. Puede ser que la estructura magnética que fluye por toda la galaxia detenga el gas que produce la creación de nuevas estrellas.</br>
         ]]>
     </string>
 
     <string name="galaxia_girsaol_titulo">Girasol</string>
     <string name="galaxia_girsaol_desc">
         <![CDATA[
-            <br>La galaxia del Girasol es una bonita galaxia espiral que se encuentra en el cielo en la constelación de los Perros de caza (Canes Venatici). M63 tiene una estructura especial de galaxia espiral, la llamada galaxia espiral floculenta, en las que la espiral está formada por multitud de segmentos de brazos espirales. También está incluida en el catálogo NGC como NGC 5055 y en el de Galaxias Principales como PGC 46153.<br>
-            <br><br>La galaxia del Girasol fue descubierta en 1779 por el astrónomo francés Pierre Méchain y poco después Messier la incluyó en su famoso catálogo con el número 63.<br><br>
-            <br><br>M63 pertenece al grupo de galaxias de M51, la galaxia del Remolino, con la cual parece ser que interactúa gravitacionalmente.<br><br>
-            <br><br>Como M51, su distancia no está clara, pero muchos astrónomos la sitúan a unos 27 millones de años luz de distancia. Con un tamaño de unos 100.000 años luz de diámetro, su magnitud aparente es de 8,6, su brillo superficial de 13,2 mag/min arco² y su tamaño aparente de 12′ 36″ x 7′ 12″.<br><br>
+            <br>La galaxia del Girasol es una bonita galaxia espiral que se encuentra en el cielo en la constelación de los Perros de caza (Canes Venatici). M63 tiene una estructura especial de galaxia espiral, la llamada galaxia espiral floculenta, en las que la espiral está formada por multitud de segmentos de brazos espirales. También está incluida en el catálogo NGC como NGC 5055 y en el de Galaxias Principales como PGC 46153.</br>
+            <br><br>La galaxia del Girasol fue descubierta en 1779 por el astrónomo francés Pierre Méchain y poco después Messier la incluyó en su famoso catálogo con el número 63.</br></br>
+            <br><br>M63 pertenece al grupo de galaxias de M51, la galaxia del Remolino, con la cual parece ser que interactúa gravitacionalmente.</br></br>
+            <br><br>Como M51, su distancia no está clara, pero muchos astrónomos la sitúan a unos 27 millones de años luz de distancia. Con un tamaño de unos 100.000 años luz de diámetro, su magnitud aparente es de 8,6, su brillo superficial de 13,2 mag/min arco² y su tamaño aparente de 12′ 36″ x 7′ 12″.</br></br>
         ]]>
     </string>
 
@@ -656,56 +656,56 @@
     <string name="estrella_capella_titulo">Capella</string>
     <string name="estrella_capella_desc">
     <![CDATA[
-        <br>Capella, la sexta estrella más brillante del cielo nocturno y la más brillante de la constelación de Auriga, tiene una magnitud visual aparente de 0,08. Capella es un sistema binario espectroscópico formado por dos estrellas gigantes de tipo G que orbitan entre sí cada 104 días. Se encuentra a 42,2 años luz de la Tierra.<br>
-        <br><br>Una estrella gigante es aquella que posee un radio relativamente grande en relación con su masa y temperatura; debido a que su área radiante es considerablemente grande, su brillo es elevado. Existen subclases de gigantes: las supergigantes, con radios y brillos aún mayores para sus masas y temperaturas; las gigantes rojas, que tienen bajas temperaturas pero un gran brillo; y las subgigantes, que presentan radios y brillos ligeramente reducidos.<br><br>
-    ]]>
+    <br>Capella, la sexta estrella más brillante del cielo nocturno y la más brillante de la constelación de Auriga, tiene una magnitud visual aparente de 0,08. Capella es un sistema binario espectroscópico formado por dos estrellas gigantes de tipo G que orbitan entre sí cada 104 días. Se encuentra a 42,2 años luz de la Tierra.</br>
+    <br><br>Una estrella gigante es aquella que posee un radio relativamente grande en relación con su masa y temperatura; debido a que su área radiante es considerablemente grande, su brillo es elevado. Existen subclases de gigantes: las supergigantes, con radios y brillos aún mayores para sus masas y temperaturas; las gigantes rojas, que tienen bajas temperaturas pero un gran brillo; y las subgigantes, que presentan radios y brillos ligeramente reducidos.</br></br>
+]]>
 </string>
 
     <string name="estrella_pleyades_titulo">Pléyades</string>
     <string name="estrella_pleyades_desc">
         <![CDATA[
-            <br>Las Pléyades son un cúmulo abierto de estrellas que podemos ver a simple vista, sin necesidad de telescopio, y de manera sencilla en los cielos boreales de invierno.<br>
-            <br><br>Reciben muchos otros nombres como las siete cabrillas, las siete hermanas, M45, Subaru, MUL MUL o las Seguidoras.<br>
-            <br><br>Este grupo de estrellas no solo es fascinante por su belleza, sino por la historia detrás de sus nombres así como por sus propiedades físicas.<br>
-            <br><br>Las Pléyades son una agrupación de estrellas compuesta por unas 1000 estrellas, sin contar las subcomponentes de las estrellas binarias (un 57 % de las estrellas de este cúmulo son binarias). El núcleo de esta agrupación tiene un radio de unos 8 años luz y su interacción gravitatoria se extiende hasta los 43 años luz de radio.<br>
-            <br><br>De estas 1000 estrellas, hasta 14 pueden ser observadas a simple vista, sin ningún tipo de ayuda óptica, aunque todo depende de la agudeza visual del observador así como de las condiciones ambientales.<br>
-            <b><br><br>Edad</b><br><br>
-            <br>Hay varios métodos para calcular la edad de los cúmulos abiertos y, según el método, la edad resultante varía.<br>
+            <br>Las Pléyades son un cúmulo abierto de estrellas que podemos ver a simple vista, sin necesidad de telescopio, y de manera sencilla en los cielos boreales de invierno.</br>
+            <br><br>Reciben muchos otros nombres como las siete cabrillas, las siete hermanas, M45, Subaru, MUL MUL o las Seguidoras.</br>
+            <br><br>Este grupo de estrellas no solo es fascinante por su belleza, sino por la historia detrás de sus nombres así como por sus propiedades físicas.</br>
+            <br><br>Las Pléyades son una agrupación de estrellas compuesta por unas 1000 estrellas, sin contar las subcomponentes de las estrellas binarias (un 57 % de las estrellas de este cúmulo son binarias). El núcleo de esta agrupación tiene un radio de unos 8 años luz y su interacción gravitatoria se extiende hasta los 43 años luz de radio.</br>
+            <br><br>De estas 1000 estrellas, hasta 14 pueden ser observadas a simple vista, sin ningún tipo de ayuda óptica, aunque todo depende de la agudeza visual del observador así como de las condiciones ambientales.</br>
+            <b><br><br>Edad</b></br></br>
+            <br>Hay varios métodos para calcular la edad de los cúmulos abiertos y, según el método, la edad resultante varía.</br>
 
-            <b><br><br>Distancia</b><br><br>
-            <br>La cercanía de las Pléyades con respecto a la Tierra hace que la medida de su distancia sea relativamente sencilla de calcular, aunque los distintos estudios han arrojado distintos valores.<br>
+            <b><br><br>Distancia</b></br></br>
+            <br>La cercanía de las Pléyades con respecto a la Tierra hace que la medida de su distancia sea relativamente sencilla de calcular, aunque los distintos estudios han arrojado distintos valores.</br>
 
-            <br>Además, su cercanía también permite trazar un diagrama de Hertzsprung–Russell de las componentes del cúmulo, permitiendo compararlo con diagramas de otros cúmulos mucho más lejanos e inferir de esta manera la distancia a esos lejanos cúmulos.<br>
+            <br>Además, su cercanía también permite trazar un diagrama de Hertzsprung–Russell de las componentes del cúmulo, permitiendo compararlo con diagramas de otros cúmulos mucho más lejanos e inferir de esta manera la distancia a esos lejanos cúmulos.</br>
         ]]>
     </string>
 
     <string name="estrella_omega_titulo">Omega Centauri</string>
     <string name="estrella_omega_desc">
         <![CDATA[
-            <br>Omega Centauri es una de las joyas más preciosas en el cielo nocturno del hemisferio sur. Este cúmulo globular, que contiene millones de estrellas, se localiza a unos 17.000 años luz de la Tierra, en la constelación de Centaurus.<br>
-            <br>Brillando a una magnitud de 3,7 y luciendo casi tan grande como la Luna llena en el cielo nocturno del hemisferio austral, Omega Centauri es visible a simple vista desde un sitio de observación oscuro y despejado. Incluso a través de un modesto telescopio aficionado, el cúmulo se muestra como una increíble y densa esfera de estrellas brillantes.<br>
-            <br>Investigaciones recientes acerca de este fascinante gigante celeste sugieren que hay un agujero negro de tamaño mediano en su centro. Observaciones realizadas con el telescopio espacial Hubble y el Observatorio Gemini revelan que las estrellas en el centro del cúmulo se mueven a una tasa inusual; según concluyeron los astrónomos, la causa sería el efecto gravitacional de un agujero negro masivo con una masa de alrededor de 40.000 veces la del Sol.<br>
+            <br>Omega Centauri es una de las joyas más preciosas en el cielo nocturno del hemisferio sur. Este cúmulo globular, que contiene millones de estrellas, se localiza a unos 17.000 años luz de la Tierra, en la constelación de Centaurus.</br>
+            <br>Brillando a una magnitud de 3,7 y luciendo casi tan grande como la Luna llena en el cielo nocturno del hemisferio austral, Omega Centauri es visible a simple vista desde un sitio de observación oscuro y despejado. Incluso a través de un modesto telescopio aficionado, el cúmulo se muestra como una increíble y densa esfera de estrellas brillantes.</br>
+            <br>Investigaciones recientes acerca de este fascinante gigante celeste sugieren que hay un agujero negro de tamaño mediano en su centro. Observaciones realizadas con el telescopio espacial Hubble y el Observatorio Gemini revelan que las estrellas en el centro del cúmulo se mueven a una tasa inusual; según concluyeron los astrónomos, la causa sería el efecto gravitacional de un agujero negro masivo con una masa de alrededor de 40.000 veces la del Sol.</br>
         ]]>
     </string>
 
     <string name="estrella_cinturiondeorion_titulo">Cinturón de Orión</string>
     <string name="estrella_cinturiondeorion_desc">
         <![CDATA[
-            <br>La constelación de Orión es un grupo de estrellas que forma la figura del guerrero Orión, en el que puede verse una línea en forma de cinturón.<br>
-            <br>Para los griegos, este es el llamado Cinturón de Orión, una banda formada por las estrellas alineadas de Alnitak, Alnilam y Mintaka. Los árabes lo llamaron collar de perlas, mientras que los mayas la bautizaron como las tres piedras del fogón.<br>
-            <br>Actualmente, estas tres estrellas que forman el Cinturón de Orión se conocen como las Tres Marías o los Tres Reyes Magos.<br>
-            <br>Las tres estrellas más importantes del Cinturón de Orión son Alnitak, Alnilam y Mintaka, las cuales están ubicadas en la Vía Láctea, a 915–1359 años luz de la Tierra.<br>
-            <br>El Cinturón de Orión se encuentra en el cúmulo de estrellas Collinder 70, en el centro de la constelación de Orión, la cual se puede ver junto a la Nebulosa de la Llama y la Nebulosa Cabeza de Caballo llamada Alnitak.<br>
-           <br> Además, está cerca de la constelación de Eridanus, de Tauro y de los Can Mayor y Menor.<br>
+            <br>La constelación de Orión es un grupo de estrellas que forma la figura del guerrero Orión, en el que puede verse una línea en forma de cinturón.</br>
+            <br>Para los griegos, este es el llamado Cinturón de Orión, una banda formada por las estrellas alineadas de Alnitak, Alnilam y Mintaka. Los árabes lo llamaron collar de perlas, mientras que los mayas la bautizaron como las tres piedras del fogón.</br>
+            <br>Actualmente, estas tres estrellas que forman el Cinturón de Orión se conocen como las Tres Marías o los Tres Reyes Magos.</br>
+            <br>Las tres estrellas más importantes del Cinturón de Orión son Alnitak, Alnilam y Mintaka, las cuales están ubicadas en la Vía Láctea, a 915–1359 años luz de la Tierra.</br>
+            <br>El Cinturón de Orión se encuentra en el cúmulo de estrellas Collinder 70, en el centro de la constelación de Orión, la cual se puede ver junto a la Nebulosa de la Llama y la Nebulosa Cabeza de Caballo llamada Alnitak.</br>
+           <br> Además, está cerca de la constelación de Eridanus, de Tauro y de los Can Mayor y Menor.</br>
         ]]>
     </string>
 
     <string name="estrella_sol_titulo">Sol</string>
     <string name="estrella_sol_descripcion">
         <![CDATA[
-            <br>El Sol es la estrella que está en el corazón de nuestro sistema solar. Su gravedad mantiene unido al sistema solar y hace que todo —desde los planetas más grandes hasta los fragmentos más pequeños de escombros— se conserve dentro de su órbita.<br>
-            <br>La conexión entre el Sol y la Tierra y las interacciones entre ambos impulsan las estaciones, las corrientes oceánicas, el estado del tiempo, el clima, los cinturones de radiación y las auroras. Aunque es especial para nosotros, existen miles de millones de estrellas como nuestro Sol dispersas por la galaxia de la Vía Láctea.<br>
-            <br>El Sol recibe muchos nombres en diferentes culturas. La palabra Sol proviene del latín sol, y “solar” es el adjetivo principal que se emplea para todo lo relacionado con el Sol.<br>
+            <br>El Sol es la estrella que está en el corazón de nuestro sistema solar. Su gravedad mantiene unido al sistema solar y hace que todo —desde los planetas más grandes hasta los fragmentos más pequeños de escombros— se conserve dentro de su órbita.</br>
+            <br>La conexión entre el Sol y la Tierra y las interacciones entre ambos impulsan las estaciones, las corrientes oceánicas, el estado del tiempo, el clima, los cinturones de radiación y las auroras. Aunque es especial para nosotros, existen miles de millones de estrellas como nuestro Sol dispersas por la galaxia de la Vía Láctea.</br>
+            <br>El Sol recibe muchos nombres en diferentes culturas. La palabra Sol proviene del latín sol, y “solar” es el adjetivo principal que se emplea para todo lo relacionado con el Sol.</br>
         ]]>
     </string>
 
@@ -713,43 +713,43 @@
     <string name="teoria_senal_titulo">Señal WOW!</string>
     <string name="teoria_senal_desc">
         <![CDATA[
-            <br>La "señal Wow!" es una de las grandes incógnitas de la astrofísica desde hace más de 40 años.<br>
-            <br>En 1977, cuando fue captada por el telescopio The Big Ear (La Gran Oreja) de la Universidad Estatal de Ohio, fue considerada la señal de radio o electromagnética proveniente del espacio más potente jamás registrada.<br>
-            <br>A lo largo de estos años, los expertos han intentado, sin éxito, encontrarla nuevamente y explicar la razón de su aparición.<br>
+            <br>La "señal Wow!" es una de las grandes incógnitas de la astrofísica desde hace más de 40 años.</br>
+            <br>En 1977, cuando fue captada por el telescopio The Big Ear (La Gran Oreja) de la Universidad Estatal de Ohio, fue considerada la señal de radio o electromagnética proveniente del espacio más potente jamás registrada.</br>
+            <br>A lo largo de estos años, los expertos han intentado, sin éxito, encontrarla nuevamente y explicar la razón de su aparición.</br>
         ]]>
     </string>
 
     <string name="teoria_disco_titulo">Disco de Oro</string>
     <string name="teoria_disco_desc">
         <![CDATA[
-            <br>El Disco de Oro de las Voyager es un disco fonográfico dorado que fue incluido en las sondas espaciales Voyager 1 y Voyager 2, lanzadas por la NASA en 1977.<br>
-            <br>Este disco contiene una selección de sonidos e imágenes que representan la diversidad de la vida y la cultura en la Tierra, junto con instrucciones sobre cómo reproducirlo.<br>
-            <br>El mensaje incluye saludos en 55 idiomas diferentes, música de diferentes culturas y épocas, sonidos de la naturaleza, así como imágenes que describen la vida en la Tierra y su ubicación en el cosmos.<br>
-            <br>También contiene una representación de la anatomía humana, la ubicación de la Tierra en el sistema solar y una lista de coordenadas que indican la posición de nuestro planeta en relación con 14 pulsares conocidos, en caso de que alguna inteligencia extraterrestre lo encuentre.<br>
-            <br>El objetivo del Disco de Oro es comunicar la diversidad y la belleza de la vida en la Tierra a cualquier forma de vida inteligente que pueda encontrarlo en el futuro.<br>
-            <br>Es una especie de cápsula del tiempo interestelar que representa a la humanidad y nuestro planeta en el vasto cosmos.<br>
+            <br>El Disco de Oro de las Voyager es un disco fonográfico dorado que fue incluido en las sondas espaciales Voyager 1 y Voyager 2, lanzadas por la NASA en 1977.</br>
+            <br>Este disco contiene una selección de sonidos e imágenes que representan la diversidad de la vida y la cultura en la Tierra, junto con instrucciones sobre cómo reproducirlo.</br>
+            <br>El mensaje incluye saludos en 55 idiomas diferentes, música de diferentes culturas y épocas, sonidos de la naturaleza, así como imágenes que describen la vida en la Tierra y su ubicación en el cosmos.</br>
+            <br>También contiene una representación de la anatomía humana, la ubicación de la Tierra en el sistema solar y una lista de coordenadas que indican la posición de nuestro planeta en relación con 14 pulsares conocidos, en caso de que alguna inteligencia extraterrestre lo encuentre.</br>
+            <br>El objetivo del Disco de Oro es comunicar la diversidad y la belleza de la vida en la Tierra a cualquier forma de vida inteligente que pueda encontrarlo en el futuro.</br>
+            <br>Es una especie de cápsula del tiempo interestelar que representa a la humanidad y nuestro planeta en el vasto cosmos.</br>
         ]]>
     </string>
 
     <string name="teoria_cometa_titulo">Cometa 3I/ATLAS</string>
     <string name="teoria_cometa_desc">
         <![CDATA[
-            <br>El 1 de julio de 2025, astrónomos en una estación ATLAS (Asteroid Terrestrial-impact Last Alert System) en Chile detectaron un nuevo visitante espacial: 3I/ATLAS, el tercer cometa interestelar identificado atravesando nuestro sistema solar.<br>
-            <br>Aunque surgieron hipótesis que apuntaban a que se trataba de una nave alienígena, su trayectoria hiperbólica y velocidad extrema lo distinguen de los cometas locales, ofreciendo una oportunidad única para estudiar materiales de otro sistema estelar.<br>
-            <br>Lo que distingue a 3I de los cometas de período largo o provenientes de la nube de Oort, en los límites de nuestro sistema solar, es su trayectoria hiperbólica, una forma orbital que indica que el objeto no está ligado gravitacionalmente al Sol. En otras palabras, no pertenece al conjunto de cuerpos celestes que giran alrededor de nuestra estrella.<br>
-            <br>Como ya ocurrió con Oumuamua, el descubrimiento de ATLAS no ha estado exento de especulación. Se ha dicho que podría tratarse de una nave alienígena o un artefacto artificial. Sin embargo, la comunidad científica ha descartado firmemente tales afirmaciones, basándose en el análisis objetivo de los datos disponibles.<br>
-            <br>Las observaciones indican que ATLAS exhibe un comportamiento típicamente cometario, con signos de sublimación de materiales volátiles al acercarse al Sol.<br>
-            <br>Por otro lado, este cometa no representa un peligro para la Tierra, ya que su máxima aproximación será a más de 1,6 UA (unos 240 millones de kilómetros).<br>
+            <br>El 1 de julio de 2025, astrónomos en una estación ATLAS (Asteroid Terrestrial-impact Last Alert System) en Chile detectaron un nuevo visitante espacial: 3I/ATLAS, el tercer cometa interestelar identificado atravesando nuestro sistema solar.</br>
+            <br>Aunque surgieron hipótesis que apuntaban a que se trataba de una nave alienígena, su trayectoria hiperbólica y velocidad extrema lo distinguen de los cometas locales, ofreciendo una oportunidad única para estudiar materiales de otro sistema estelar.</br>
+            <br>Lo que distingue a 3I de los cometas de período largo o provenientes de la nube de Oort, en los límites de nuestro sistema solar, es su trayectoria hiperbólica, una forma orbital que indica que el objeto no está ligado gravitacionalmente al Sol. En otras palabras, no pertenece al conjunto de cuerpos celestes que giran alrededor de nuestra estrella.</br>
+            <br>Como ya ocurrió con Oumuamua, el descubrimiento de ATLAS no ha estado exento de especulación. Se ha dicho que podría tratarse de una nave alienígena o un artefacto artificial. Sin embargo, la comunidad científica ha descartado firmemente tales afirmaciones, basándose en el análisis objetivo de los datos disponibles.</br>
+            <br>Las observaciones indican que ATLAS exhibe un comportamiento típicamente cometario, con signos de sublimación de materiales volátiles al acercarse al Sol.</br>
+            <br>Por otro lado, este cometa no representa un peligro para la Tierra, ya que su máxima aproximación será a más de 1,6 UA (unos 240 millones de kilómetros).</br>
         ]]>
     </string>
 
     <string name="teoria_planetas_titulo">Planetas como la Tierra</string>
     <string name="teoria_planetas_desc">
         <![CDATA[
-            <br>Si bien existen miles de planetas que fueron descubiertos con el transcurrir de los años y los avances tecnológicos, solo hay unos pocos que comparten parecidos con el planeta Tierra.<br>
-            <br>La NASA ha desarrollado diversos métodos y equipos para sus investigaciones, entre ellos está el Satélite de Sondeo de Exoplanetas en Tránsito (TESS, por sus siglas en inglés), por medio del cual se encontró un planeta con un tamaño parecido a la Tierra dentro de la “zona habitable” de su estrella; su nombre es TOI 700 d y su tamaño es alrededor de un 20 % más grande que la Tierra. Su órbita es de 37 días y su estrella le da el 86 % de la energía que el Sol le da a nuestro planeta.<br>
-            <br>Otro exoplaneta que comparte características y que fue descubierto por la NASA a través de su nave espacial Kepler es Kepler-452b. Según la agencia, su tamaño es más grande y orbita una estrella G2; tienen similitudes en la relación de tamaños entre el Sol y el planeta Tierra.<br>
-            <br>Su ubicación dentro del sistema estelar hace que su temperatura sea la adecuada para la existencia de agua líquida, además de que está dentro de la “zona habitable”. Un año allí dura 385 días. La estrella madre es un 20 % más brillante y un 10 % más grande que lo que es el Sol con respecto a la Tierra.<br>
+            <br>Si bien existen miles de planetas que fueron descubiertos con el transcurrir de los años y los avances tecnológicos, solo hay unos pocos que comparten parecidos con el planeta Tierra.</br>
+            <br>La NASA ha desarrollado diversos métodos y equipos para sus investigaciones, entre ellos está el Satélite de Sondeo de Exoplanetas en Tránsito (TESS, por sus siglas en inglés), por medio del cual se encontró un planeta con un tamaño parecido a la Tierra dentro de la “zona habitable” de su estrella; su nombre es TOI 700 d y su tamaño es alrededor de un 20 % más grande que la Tierra. Su órbita es de 37 días y su estrella le da el 86 % de la energía que el Sol le da a nuestro planeta.</br>
+            <br>Otro exoplaneta que comparte características y que fue descubierto por la NASA a través de su nave espacial Kepler es Kepler-452b. Según la agencia, su tamaño es más grande y orbita una estrella G2; tienen similitudes en la relación de tamaños entre el Sol y el planeta Tierra.</br>
+            <br>Su ubicación dentro del sistema estelar hace que su temperatura sea la adecuada para la existencia de agua líquida, además de que está dentro de la “zona habitable”. Un año allí dura 385 días. La estrella madre es un 20 % más brillante y un 10 % más grande que lo que es el Sol con respecto a la Tierra.</br>
         ]]>
     </string>
 
@@ -757,15 +757,15 @@
     <string name="teoria_area_desc">
     <![CDATA[
     <br>Al principio le llamaban "Rancho Paraíso" o "Tierra de los Sueños".</br>
-    <br>Se trata de un lugar en medio del desierto al que nadie querría ir a trabajar, así que había que ponerle un nombre que sonara atractivo.<br>
-    <br>En la actualidad es más conocida simplemente como Área 51, un nombre mucho más acorde con el hermetismo que la rodea.<br>
-    <br>Esta base militar está ubicada en el desierto del estado de Nevada en EE. UU., a unos 135 km al norte de Las Vegas, y ha inspirado toda clase de teorías conspirativas, muchas de ellas relacionadas con extraterrestres.<br>
-    <br>El campo de pruebas del Área 51 supera los 12.000 km² y se cree que en ella trabajan unas 1.500 personas.<br>
-    <br>¿Cómo surge el mito? El ambiente críptico que rodeaba al Área 51 resultó ser el escenario perfecto para que surgieran toda clase de teorías conspirativas.<br>
-    <br>Los aviones que se probaban en la base volaban tres veces más alto que un avión comercial y a velocidad supersónica. Podían cruzar Estados Unidos de costa a costa en solo 70 minutos.<br>
-    <br>El coronel Hugh Slater, comandante de la base en la década de los 60, afirmó que mientras estuvo al mando, solo el A-12 OXCART realizó 2.850 vuelos de prueba.<br>
-    <br>Slater se refería a que cuando los pasajeros y pilotos de aviones comerciales veían a los aviones supersónicos en acción, avisaban a la torre de control pensando que era un ovni, lo que alimentó los rumores.<br>
-    <br>Otro episodio que alimenta el mito es un famoso incidente registrado en 1947 en Roswell, Nuevo México, donde el hallazgo de los restos de un extraño artefacto generó toda clase de especulaciones.<br>
+    <br>Se trata de un lugar en medio del desierto al que nadie querría ir a trabajar, así que había que ponerle un nombre que sonara atractivo.</br>
+    <br>En la actualidad es más conocida simplemente como Área 51, un nombre mucho más acorde con el hermetismo que la rodea.</br>
+    <br>Esta base militar está ubicada en el desierto del estado de Nevada en EE. UU., a unos 135 km al norte de Las Vegas, y ha inspirado toda clase de teorías conspirativas, muchas de ellas relacionadas con extraterrestres.</br>
+    <br>El campo de pruebas del Área 51 supera los 12.000 km² y se cree que en ella trabajan unas 1.500 personas.</br>
+    <br>¿Cómo surge el mito? El ambiente críptico que rodeaba al Área 51 resultó ser el escenario perfecto para que surgieran toda clase de teorías conspirativas.</br>
+    <br>Los aviones que se probaban en la base volaban tres veces más alto que un avión comercial y a velocidad supersónica. Podían cruzar Estados Unidos de costa a costa en solo 70 minutos.</br>
+    <br>El coronel Hugh Slater, comandante de la base en la década de los 60, afirmó que mientras estuvo al mando, solo el A-12 OXCART realizó 2.850 vuelos de prueba.</br>
+    <br>Slater se refería a que cuando los pasajeros y pilotos de aviones comerciales veían a los aviones supersónicos en acción, avisaban a la torre de control pensando que era un ovni, lo que alimentó los rumores.</br>
+    <br>Otro episodio que alimenta el mito es un famoso incidente registrado en 1947 en Roswell, Nuevo México, donde el hallazgo de los restos de un extraño artefacto generó toda clase de especulaciones.</br>
 ]]>
 </string>
 

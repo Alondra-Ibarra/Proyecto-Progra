@@ -21,6 +21,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
+
     <TextView
         android:id="@+id/tvSubtitulo"
         android:layout_width="wrap_content"
@@ -31,6 +32,17 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/tvTituloMenu" />
+    <TextView
+        android:id="@+id/tvPuntaje"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Puntaje: 0"
+        android:textColor="#FFFFFF"
+        android:textSize="18sp"
+        android:layout_marginTop="12dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/tvSubtitulo"/>
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -102,8 +114,10 @@
             app:cardBackgroundColor="#1A1A2E"
             app:cardCornerRadius="20dp"
             app:cardElevation="8dp"
-            android:clickable="true"
-            android:foreground="?attr/selectableItemBackground">
+            android:foreground="?attr/selectableItemBackground"
+            android:clickable="false"
+            android:focusable="false"
+            android:alpha="0.4">
 
             <LinearLayout
                 android:layout_width="match_parent"
@@ -154,8 +168,10 @@
             app:cardBackgroundColor="#1A1A2E"
             app:cardCornerRadius="20dp"
             app:cardElevation="8dp"
-            android:clickable="true"
-            android:foreground="?attr/selectableItemBackground">
+            android:foreground="?attr/selectableItemBackground"
+            android:clickable="false"
+            android:focusable="false"
+            android:alpha="0.4">
 
             <LinearLayout
                 android:layout_width="match_parent"
@@ -199,5 +215,7 @@
         </androidx.cardview.widget.CardView>
 
     </LinearLayout>
+
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
