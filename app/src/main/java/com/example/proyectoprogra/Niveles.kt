@@ -19,7 +19,7 @@ class Niveles : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.niveles) // Asegurate que tu XML se llame asi
-        mediaPlayer = MediaPlayer.create(this, R.raw.fondo_cuest)
+        mediaPlayer = MediaPlayer.create(this, R.raw.niveles_sound)
         mediaPlayer?.isLooping = true
         mediaPlayer?.start()
         mediaPlayer?.setVolume(0.5f, 0.5f)
@@ -28,6 +28,19 @@ class Niveles : AppCompatActivity() {
     override fun onResume() {
         super.onResume()
         actualizarNiv()
+        mediaPlayer?.start()
+    }
+
+    override fun onPause() {
+        super.onPause()
+        mediaPlayer?.pause()
+    }
+
+    override fun onDestroy() {
+        super.onDestroy()
+        mediaPlayer?.stop()
+        mediaPlayer?.release()
+        mediaPlayer = null
     }
 
     private fun actualizarNiv() {
