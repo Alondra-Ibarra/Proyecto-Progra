@@ -57,6 +57,13 @@
         <activity android:name=".Estrellas"
             android:exported="false">
         </activity>
+        <activity android:name=".juego1"
+            android:exported="false">
+        </activity>
+        <activity android:name=".Niveles"
+            android:exported="false">
+        </activity>
+
 
     </application>
 
