@@ -1,6 +1,7 @@
 package com.example.proyectoprogra
 
 import android.content.Intent
+import android.media.MediaPlayer
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.TextView
@@ -8,13 +9,20 @@ import android.widget.Toast
 import androidx.cardview.widget.CardView // Importante para que no falle el cast
 import java.io.File
 
+
 class Niveles : AppCompatActivity() {
 
     private val nomArch = "record_max.txt" // Asegúrate que este nombre coincida con el que usas en juego1.kt (record_maximo.txt o record_max.txt)
+    //iniciaremos musica
+    private var mediaPlayer: MediaPlayer?=null
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.niveles) // Asegurate que tu XML se llame asi
+        mediaPlayer = MediaPlayer.create(this, R.raw.fondo_cuest)
+        mediaPlayer?.isLooping = true
+        mediaPlayer?.start()
+        mediaPlayer?.setVolume(0.5f, 0.5f)
     }
 
     override fun onResume() {
