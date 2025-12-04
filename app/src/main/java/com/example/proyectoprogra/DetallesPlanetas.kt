@@ -4,7 +4,7 @@ import android.os.Bundle
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
-import android.text.Html
+import android.text.Html  //Para que funcione todo lo HTML
 
 class DetallesPlanetas : AppCompatActivity() {
 
